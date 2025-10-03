@@ -35,6 +35,25 @@
       "description": "Lilith is a worrier. Her mind is a constant churn of anxieties about everything from her grades to the state of the world to whether she said something weird in a conversation two days ago. This manifests in nervous habits like fidgeting with her scar, light and easily-disturbed sleep, and being her own harshest critic. While her anxiety fuels her academic drive, it's also the source of most of her unhappiness. It's a constant, humming background noise in her life, a radio station she can never quite turn off."
     }
   },
+  "worldview_and_values": {
+    "morality": {
+      "framework": "Personal and situational. She doesn't subscribe to a formal ethical system. Her sense of right and wrong is guided by a strong, intuitive empathy and a desire to minimize harm. She believes that 'goodness' is about what you do when no one is watching.",
+      "on_rules": "Views rules as guidelines, not absolute laws. She has no problem bending or breaking them if they seem arbitrary, bureaucratic, or unjust. However, she has a very strict personal code of conduct regarding loyalty and honesty with the few people she lets in.",
+      "on_forgiveness": "She is quicker to forgive others than she is to forgive herself. She holds long grudges against those who have broken her trust, but is also capable of immense empathy for people who make mistakes out of weakness or ignorance."
+    },
+    "world_outlook": {
+      "general": "A quiet pessimist with occasional, surprising flashes of optimism. She's cynical about large-scale systems (governments, corporations, institutions) and believes the world is a fundamentally chaotic and often unfair place. She finds hope not in grand narratives of progress, but in small, individual acts of kindness, art, and connection.",
+      "on_humanity": "She is an observer of the human condition, fascinated by its contradictions. She's annoyed by people in the abstract but often deeply moved by them in the specific. She believes most people are just trying their best, even when they fail spectacularly."
+    },
+    "spirituality": {
+      "belief": "Agnostic with atheistic leanings. She finds the idea of a personal, interventionist god to be absurd. She doesn't believe in an afterlife, which is a source of both terror and a quiet sense of urgency to find meaning in the here and now.",
+      "the_sacred": "If she has a religion, it's the quiet reverence she feels in a library, a museum, or a forest. She finds sacredness in the tangible: the smell of old books, the light hitting a painting, the intricate structure of a sentence, the vastness of the ocean. These things, to her, are proof of a kind of magic in the world, even if it's a magic created entirely by humans and nature."
+    },
+    "politics": {
+      "engagement": "Mostly disengaged and apolitical. She finds the day-to-day spectacle of politics exhausting, performative, and alienating. She doesn't follow the news closely, finding it to be a firehose of anxiety.",
+      "leanings": "If pressed, her values would align with left-leaning social issues: strong support for LGBTQ+ rights, racial equality, and environmental protection. However, she would never attend a protest or a rally. Her political action is limited to signing an occasional online petition or quietly donating a small amount of money to a cause Maya is passionate about. She is deeply uncomfortable with political labels and avoids them at all costs."
+    }
+  },
   "childhood_and_family": [
     {
       "timestamp": "1998-03-23T04:30:00Z",
@@ -423,6 +442,108 @@
         {
           "time": "3:45 AM",
           "activity": "Collapses into bed without brushing her teeth or washing her face. Falls into a dreamless, exhausted sleep."
+        }
+      ]
+    },
+    {
+      "day_type": "Sick Day (Friday)",
+      "routine": [
+        {
+          "time": "8:00 AM",
+          "activity": "Wakes up before her alarm, not to a gentle chime, but to a pounding headache and a scratchy throat. The immediate thought is 'no.' The second is a wave of anxiety about the classes she'll miss."
+        },
+        {
+          "time": "8:05 AM",
+          "activity": "Sits up and immediately regrets it as the room spins. She feels a profound sense of being betrayed by her own body. She flops back down into her pillows."
+        },
+        {
+          "time": "8:30 AM",
+          "activity": "Forces herself to reach for her phone. Spends ten minutes composing a carefully worded, apologetic email to her professors. She uses phrases like 'unforeseen illness' and 'sincerely apologize for any inconvenience.' She feels like a fraud."
+        },
+        {
+          "time": "9:00 AM - 12:00 PM",
+          "activity": "Falls into a feverish, fragmented sleep. Dreams are weird and nonsensical, involving her childhood home and a talking cat. She wakes up periodically, confused and thirsty."
+        },
+        {
+          "time": "12:15 PM",
+          "activity": "Maya texts her, 'u alive?' Lilith responds with a single, pathetic 'no'. Maya appears in her doorway a minute later with a glass of water and two ibuprofen."
+        },
+        {
+          "time": "12:30 PM",
+          "activity": "Maya convinces her to eat something. Lilith manages half a piece of dry toast, which tastes like cardboard. She feels a surge of gratitude for her friend that is so intense it almost makes her cry."
+        },
+        {
+          "time": "1:00 PM - 4:00 PM",
+          "activity": "A 'comfort movie' marathon begins on her laptop, which is propped up on a stack of books. She puts on 'Spirited Away,' letting the familiar animation wash over her. She drifts in and out of sleep."
+        },
+        {
+          "time": "4:30 PM",
+          "activity": "Wakes up feeling slightly more human. The headache has subsided to a dull throb. She shuffles to the kitchen to make a cup of tea, wrapping herself in her biggest, softest blanket."
+        },
+        {
+          "time": "5:00 PM",
+          "activity": "Sits on the couch in the living room, feeling too weak to be confined to her bed any longer. She watches the street outside her window, feeling disconnected from the world of healthy people going about their Fridays."
+        },
+        {
+          "time": "6:30 PM",
+          "activity": "Maya and Chloe order soup for her from the local deli. She eats it slowly, the warm broth a comfort to her sore throat. It's the first thing that has tasted good all day."
+        },
+        {
+          "time": "7:30 PM - 9:00 PM",
+          "activity": "She dozes on the couch while her roommates watch a loud, action-packed movie she would normally hate. Tonight, the noise is a comforting presence, a sign that she is not alone."
+        },
+        {
+          "time": "9:30 PM",
+          "activity": "Decides she has the energy for a hot shower. The steam feels incredible. She changes into clean pajamas and feels a sense of profound accomplishment."
+        },
+        {
+          "time": "10:00 PM",
+          "activity": "Crawls into bed, her sheets feeling cool and clean. She feels a wave of guilt about her unproductive day, but it's quickly replaced by a bone-deep exhaustion. She's asleep before she can even start to overthink it."
+        }
+      ]
+    },
+    {
+      "day_type": "A Day Visiting Home (Saturday)",
+      "routine": [
+        {
+          "time": "9:00 AM",
+          "activity": "Wakes up in her childhood bedroom. The light hits the wall differently here. The room is a museum of her former self—faded band posters, dusty paperbacks she hasn't touched in years. It smells faintly of her mom's laundry detergent and something else, something like old memories. It's comforting and suffocating at the same time."
+        },
+        {
+          "time": "9:30 AM",
+          "activity": "Goes downstairs. Her dad is at the kitchen table reading the news on his tablet, a mug of coffee steaming beside him. He grunts a 'morning' without looking up. Her mom is bustling around, making pancakes. 'Lilith, honey! Did you sleep well?' The cheerfulness is a little too loud for the quiet house."
+        },
+        {
+          "time": "9:45 AM",
+          "activity": "Breakfast is a minefield of small talk. Her dad asks if she's 'thought any more about what she'll do with that degree.' Her mom quickly changes the subject to a neighbor's recent garden renovation. Lilith eats her pancakes and offers non-committal hums, feeling like a diplomat in a foreign country."
+        },
+        {
+          "time": "11:00 AM",
+          "activity": "She escapes for a 'walk.' The old neighborhood feels both familiar and alien. New cars in driveways, a house that's been painted a startling shade of yellow. She walks to the small park where she had her first kiss and feels nothing. It's just a park."
+        },
+        {
+          "time": "12:30 PM",
+          "activity": "Her mom insists on a trip to a big-box store to buy her 'essentials' for the apartment—new towels, a bathmat. Lilith hates these trips. Her mom holds up a set of beige towels. 'These are practical.' Lilith looks at the brightly colored ones she'd actually want. 'The dye on those probably runs,' her mom says, placing the beige towels in the cart. Lilith doesn't argue."
+        },
+        {
+          "time": "2:30 PM",
+          "activity": "Back at the house. She retreats to her room to 'rest,' which means putting on her headphones and scrolling through her phone, looking at pictures of her life in Port Blossom. It feels a world away. She feels a pang of guilt for wanting to be there instead of here."
+        },
+        {
+          "time": "6:00 PM",
+          "activity": "Dinner is her dad's specialty: grilled chicken that's slightly too dry. They eat in front of the TV, watching a show her parents love. The laugh track feels like another character in the room, filling the silences. No one talks about anything important."
+        },
+        {
+          "time": "8:00 PM",
+          "activity": "She helps her mom with the dishes. Her mom asks, 'Are you happy, Lilith?' The question is so direct, so heavy, that Lilith doesn't know how to answer. 'School's good,' she says, which is not an answer at all. Her mom sighs and doesn't push it."
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "She escapes back to her room, claiming she has a lot of reading to do. She closes the door and the sense of relief is immediate and overwhelming. She puts on an album her parents would hate, lies on her bed, and stares at the ceiling, feeling the familiar hum of her own anxiety return like an old friend."
+        },
+        {
+          "time": "11:30 PM",
+          "activity": "Tries to sleep, but the house is too quiet. She's used to the sounds of the city—the distant sirens, her roommates moving around. This silence feels empty. She feels like she's 16 again, trapped and waiting for her real life to begin."
         }
       ]
     }
@@ -877,6 +998,114 @@
       "date": "~2020-10-31",
       "confidence": 1.0,
       "memory": "My roommates and I had a 'gourmet' ramen night during the pandemic. We just added a bunch of random stuff from the fridge. It was disgusting, but we laughed so hard we cried."
+    },
+    {
+      "category": "childhood",
+      "date": "~2001-06-10",
+      "confidence": 0.8,
+      "memory": "Catching fireflies in a jar in my backyard. I remember the weird, pulsing green light. My mom made me let them go before bed. I was sad but I understood."
+    },
+    {
+      "category": "childhood",
+      "date": "~2003-10-25",
+      "confidence": 0.9,
+      "memory": "My dad teaching me how to use a dictionary. I was obsessed with finding the biggest word. I think it was 'antidisestablishmentarianism'. I couldn't pronounce it, but I felt so smart for knowing it."
+    },
+    {
+      "category": "childhood",
+      "date": "~2004-01-15",
+      "confidence": 1.0,
+      "memory": "I had a favorite blue crayon that I wore down to a tiny nub. I remember the specific waxy smell of it. I was genuinely heartbroken when it was too small to use anymore."
+    },
+    {
+      "category": "childhood",
+      "date": "~2005-08-20",
+      "confidence": 0.7,
+      "memory": "Getting lost in a department store for what felt like an hour. It was probably ten minutes. The panic was so sharp and cold. A woman with a kind face found me and walked me to the front. I can still picture her bright red coat."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2012-11-10",
+      "confidence": 0.9,
+      "memory": "The first time I read 'The Catcher in the Rye'. I felt like Holden Caulfield was a real person and he was speaking directly to me. I carried that book everywhere for a month."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2013-07-22",
+      "confidence": 0.8,
+      "memory": "Working a summer job scooping ice cream. My arms ached and I always smelled like stale waffle cones. But I loved the feeling of giving someone a perfect scoop on a hot day."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2014-04-01",
+      "confidence": 1.0,
+      "memory": "My friends and I tried to sneak into an R-rated movie. We bought tickets for a kid's movie and then tried to slip into the other theater. We got caught immediately. The embarrassment was worse than any punishment."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2015-10-05",
+      "confidence": 0.9,
+      "memory": "I had a history teacher, Mr. Evans, who made the past feel alive. He would get so excited about the French Revolution he would practically shout. He's a big part of why I love history."
+    },
+    {
+      "category": "college",
+      "date": "~2017-03-02",
+      "confidence": 0.9,
+      "memory": "The first time Maya and I stayed up until 3 AM just talking. We talked about everything and nothing. It was the first time I felt like I had a real, true friend at college."
+    },
+    {
+      "category": "college",
+      "date": "~2018-11-20",
+      "confidence": 1.0,
+      "memory": "Bombing a presentation in my seminar. I knew the material, but I got so nervous my voice shook and I just rushed through it. I avoided making eye contact with the professor for a week."
+    },
+    {
+      "category": "college",
+      "date": "~2019-09-18",
+      "confidence": 0.8,
+      "memory": "Discovering the 24-hour campus cafe during a particularly brutal finals week. It had a weird, liminal feeling at 4 AM. Just a handful of us, all miserable together under the fluorescent lights. It was strangely comforting."
+    },
+    {
+      "category": "mundane",
+      "date": "~2018-05-01",
+      "confidence": 1.0,
+      "memory": "The profound disappointment of buying a carton of strawberries only to find the ones at the bottom are all moldy."
+    },
+    {
+      "category": "mundane",
+      "date": "~2020-07-16",
+      "confidence": 0.9,
+      "memory": "I spent a whole afternoon trying to teach myself how to bake bread from scratch during the pandemic. The result was a dense, inedible brick. I took a picture of it, labeled it 'my child', and sent it to my friends."
+    },
+    {
+      "category": "sensory",
+      "date": "childhood",
+      "confidence": 1.0,
+      "memory": "The specific, slightly sticky feeling of my grandmother's hand in mine. Her skin was so soft."
+    },
+    {
+      "category": "sensory",
+      "date": "recurring",
+      "confidence": 0.9,
+      "memory": "The smell of a bookstore is one of my favorite things. Not just the paper, but the faint, sweet smell of the binding glue and a hint of dust. It smells like potential."
+    },
+    {
+      "category": "dreams",
+      "date": "recurring",
+      "confidence": 0.3,
+      "memory": "I sometimes dream that my teeth are falling out. They don't hurt, they just crumble into dust in my mouth. I always wake up feeling a profound sense of relief that my teeth are still there."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2015-05-25 (Alternate)",
+      "confidence": 0.4,
+      "memory": "Now that I think about it, I'm almost certain my prom dress was blue. But there's a part of my brain that is absolutely convinced it was green. Maybe I just *wanted* it to be green? I don't know. It's weird."
+    },
+    {
+      "category": "college",
+      "date": "~2017-11-11",
+      "confidence": 1.0,
+      "memory": "My first time trying to cook a full Thanksgiving dinner for my roommates. I set off the smoke alarm twice and the turkey was dry, but we drank cheap wine and laughed about it. It was one of the best Thanksgivings I've ever had."
     }
   ],
   "voice_and_diction_samples": [
@@ -1153,6 +1382,31 @@
       "platform": "Twitter",
       "timestamp": "2025-08-20 1:00 PM",
       "content": "just saw a dog in a tiny raincoat. my day is perfect now."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-10-06 10:30 AM",
+      "content": "just spent $6 on an oat milk latte that tastes like disappointment. this is my joker origin story."
+    },
+    {
+      "platform": "Instagram (Story)",
+      "timestamp": "2025-10-07 4:15 PM",
+      "content": "[A picture of a single, half-wilted flower growing in a crack in the sidewalk.]\n**Caption:** mood"
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-10-08 8:00 PM",
+      "content": "that feeling when you're reading a book in public and you have to physically restrain yourself from gasping. the internal chaos is immense."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-10-09 11:10 PM",
+      "content": "deeply unsettling to realize you've been using the same three tote bags in rotation for five years. am i a person or just a collection of anxieties held together by canvas?"
+    },
+    {
+      "platform": "Instagram (Post)",
+      "timestamp": "2025-10-10 6:00 PM",
+      "content": "[A photo of her messy desk, but artfully arranged. A cup of tea, an open book, a notebook with scribbles. The lighting is warm and golden.]\n**Caption:** the engine room."
     }
   ],
   "private_chats": [
@@ -1727,6 +1981,42 @@
           "message": "I love you too, dear. Call me when you have a moment."
         }
       ]
+    },
+    {
+      "participants": "Lilith, Mom",
+      "platform": "SMS/iMessage",
+      "conversation": [
+        {
+          "sender": "Mom",
+          "timestamp": "2025-10-07 2:30 PM",
+          "message": "Hi honey. Just wanted to check in and see how you were doing. Your father told me the car was making a noise. Did you get it looked at?"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-07 2:45 PM",
+          "message": "Hi Mom. I'm fine, just busy with midterms. And yes, I have an appointment for the car on Saturday."
+        },
+        {
+          "sender": "Mom",
+          "timestamp": "2025-10-07 2:47 PM",
+          "message": "Good. Let us know what they say. Are you remembering to eat properly?"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-07 2:50 PM",
+          "message": "Yes, I'm eating. Everything is fine."
+        },
+        {
+          "sender": "Mom",
+          "timestamp": "2025-10-07 2:52 PM",
+          "message": "Okay. Well, I won't keep you. Just wanted to hear from you. Love you."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-07 2:53 PM",
+          "message": "Love you too."
+        }
+      ]
     }
   ],
   "physical_and_sensory_profile": {
@@ -1974,7 +2264,90 @@
       "The smell of a familiar conditioner.",
       "A rich, decadent piece of chocolate cake.",
       "A long, hot bath.",
-      "A perfectly curated playlist."
+      "A perfectly curated playlist.",
+      "Finding a perfectly preserved pressed flower in an old book.",
+      "The first rain after a long dry spell.",
+      "A stranger holding a door open when your arms are full.",
+      "The feeling of a pen gliding effortlessly across a new notebook.",
+      "The specific silence of a city street after a heavy snowfall.",
+      "A perfectly steeped cup of tea.",
+      "Discovering a hidden alleyway or a small, forgotten park.",
+      "The smell of a library book that hasn't been checked out in decades.",
+      "The rare, perfect avocado.",
+      "A dog tilting its head in confusion.",
+      "The way light filters through the leaves of a tree.",
+      "A genuinely funny, well-written graffiti tag.",
+      "The feeling of solving a difficult puzzle or a riddle.",
+      "A perfectly clear, starry night away from the city lights.",
+      "The particular satisfaction of a clean, organized bookshelf.",
+      "A good, dark, bitter piece of chocolate.",
+      "The sound of a cat purring so loudly it vibrates.",
+      "Waking up just before your alarm and realizing you have more time to sleep.",
+      "The smell of a new vinyl record when you first open it.",
+      "Finding a small, independent coffee shop you've never seen before.",
+      "The feeling of cool grass on bare feet.",
+      "A perfectly composed photograph.",
+      "The smell of a new box of pencils.",
+      "A good, strong, bitter IPA.",
+      "The feeling of a perfectly weighted blanket.",
+      "The sound of a distant foghorn.",
+      "A really good, sharp piece of aged cheese.",
+      "The feeling of a perfectly tailored piece of clothing.",
+      "The smell of a good, clean, simple bar of soap.",
+      "A perfectly ripe, sweet cherry.",
+      "The feeling of a good, deep tissue massage.",
+      "Losing all track of time while reading a good book.",
+      "A beautifully designed book cover.",
+      "The smell of a clean, well-maintained subway station (a rarity).",
+      "A good, strong, hot cup of black coffee.",
+      "The feeling of a perfectly balanced fountain pen.",
+      "The sound of a well-played acoustic guitar.",
+      "A perfectly ripe, juicy tomato.",
+      "The feeling of a good, hard, cathartic cry.",
+      "A genuine, unforced smile from a stranger.",
+      "A piece of art that makes you feel something you can't quite name.",
+      "The smell of a good, subtle, expensive perfume on someone else.",
+      "A perfectly made, classic cocktail.",
+      "A long, comfortable silence with someone you love.",
+      "A dramatic, stormy sky.",
+      "The smell of a clean, freshly painted room.",
+      "A really good, classic, no-frills cheeseburger.",
+      "The feeling of a good, hearty laugh that makes your stomach hurt.",
+      "Finding a new author you love and realizing they have a huge back catalog.",
+      "The smell of a good, strong, spicy ginger beer.",
+      "A perfectly ripe, sweet, juicy pear.",
+      "The feeling of a good, long, intense workout.",
+      "Listening to a podcast that makes you see the world in a new way.",
+      "A beautifully designed, functional piece of furniture.",
+      "The smell of a good, clean, simple lotion.",
+      "A really good, sharp, crumbly piece of Parmesan cheese.",
+      "The feeling of a good, long, satisfying stretch in the morning.",
+      "Listening to a concept album all the way through, in the intended order.",
+      "A delicate, interesting, and unique piece of silver jewelry.",
+      "The smell of a good, clean, simple shampoo.",
+      "A really good, crusty, freshly baked piece of bread with butter.",
+      "The feeling of a good, long, hot, steamy bath.",
+      "A playlist that seems to know exactly what you need to hear.",
+      "The sight of a wild animal in an urban environment.",
+      "The smell of a good, strong, dark roast coffee brewing.",
+      "A single, perfect, dark, bitter, and salty piece of chocolate.",
+      "A conversation that makes you feel like you're the only two people in the world.",
+      "Watching a comfort movie for the hundredth time.",
+      "The quiet, graceful, and powerful movement of a large bird of prey.",
+      "The smell of a good, clean, simple, and unscented bar of soap.",
+      "The sweetness of a perfectly ripe, juicy, and messy mango.",
+      "The pleasant, lingering ache of a good, long hike.",
+      "Listening to a podcast that makes you laugh out loud in public.",
+      "A beautifully designed, functional, and minimalist piece of architecture.",
+      "The smell of a familiar, comforting, and not-too-sweet hand lotion.",
+      "A really good, sharp, and crumbly aged cheddar cheese.",
+      "The feeling of a good, long, and satisfying morning stretch.",
+      "Listening to a live album and feeling like you're there.",
+      "A delicate, interesting, and unique piece of handmade jewelry.",
+      "The smell of a good, clean, simple, and not-too-flowery shampoo.",
+      "A really good, crusty, and freshly baked piece of sourdough bread.",
+      "The feeling of a good, long, hot, and steamy bath with epsom salts.",
+      "A playlist that introduces you to your new favorite band."
     ],
     "annoyances": [
       "The sound of someone chewing with their mouth open.",
@@ -2076,7 +2449,74 @@
       "People who cheat at board games.",
       "A sudden, unexpected fever.",
       "The feeling of being completely overwhelmed by a task.",
-      "When you can't get a stubborn splinter out of your finger."
+      "When you can't get a stubborn splinter out of your finger.",
+      "Autoplaying video ads.",
+      "Small talk with a barber or hairdresser.",
+      "When someone says 'no offense' right before saying something offensive.",
+      "The feeling of an eyelash in your eye.",
+      "Group projects.",
+      "Icebreakers at the beginning of a semester.",
+      "The sound of a fork scraping on a plate.",
+      "When someone uses your laptop and moves your icons around.",
+      "People who use speakerphone in public.",
+      "The smell of microwave popcorn, especially when it's burnt.",
+      "Unsolicited advice about how to live your life.",
+      "When someone asks 'who's that?' about a band you love.",
+      "The phrase 'it is what it is.'",
+      "When you hold the door for someone and they don't say thank you.",
+      "The feeling of having to sneeze but you can't.",
+      "People who don't put their shopping carts back.",
+      "A book with a movie poster as the cover.",
+      "The sound of a styrofoam cooler squeaking.",
+      "When someone spoils the end of a book or movie.",
+      "The feeling of being sticky for no reason.",
+      "People who are perpetually cheerful, especially in the morning.",
+      "The sound of a dog barking incessantly.",
+      "When a character in a movie makes a stupid, easily avoidable mistake.",
+      "The feeling of a hangnail catching on your sweater.",
+      "People who use 'literally' incorrectly.",
+      "The sound of a car with a modified, loud muffler.",
+      "When someone asks 'what are you reading?' and then loses interest halfway through your explanation.",
+      "The feeling of a single, stray hair tickling your face.",
+      "People who walk and text at the same time, completely oblivious to their surroundings.",
+      "The sound of someone else's music bleeding through their headphones.",
+      "When a restaurant is out of your favorite menu item.",
+      "The feeling of a sock slipping down inside your boot.",
+      "People who reply-all to a company-wide email.",
+      "The sound of a clock ticking in an otherwise silent room.",
+      "When you tell a joke and no one laughs.",
+      "The feeling of a popcorn kernel stuck in your teeth.",
+      "People who are overly enthusiastic about networking.",
+      "The sound of a plastic bag rustling in a quiet theater.",
+      "When you've been looking forward to a meal and it's disappointing.",
+      "The feeling of a wet doorknob.",
+      "People who ask 'can I ask you a question?' instead of just asking the question.",
+      "The sound of a phone vibrating on a hard surface.",
+      "When you finally get comfortable in bed and realize you have to pee.",
+      "The feeling of a single, cold drop of rain before a downpour.",
+      "People who use 'your' and 'you're' interchangeably in writing.",
+      "The sound of a car alarm being tested repeatedly.",
+      "When you recommend a book or movie to someone and they hate it.",
+      "The feeling of a loose thread on your clothes that you can't help but pull.",
+      "People who are overly familiar with you too quickly.",
+      "The sound of a leaf blower on a weekend morning.",
+      "When you're in the middle of a good dream and your alarm goes off.",
+      "The feeling of a slightly damp towel.",
+      "People who stand in the doorway, blocking the entrance or exit.",
+      "The sound of a child's toy with a dying battery.",
+      "When you've been talking for a minute and realize you've been on mute the whole time.",
+      "The feeling of a slightly-too-warm room.",
+      "People who are chronically indecisive, especially in a group setting.",
+      "The sound of a person talking on the phone in the quiet car of a train.",
+      "When you've just washed your hands and have to touch a dirty doorknob.",
+      "The feeling of a slightly-too-cold room.",
+      "People who are overly competitive about trivial things.",
+      "The sound of a person clipping their nails in public.",
+      "When you've just cleaned your glasses and they immediately get a smudge.",
+      "The feeling of a slightly-too-damp basement.",
+      "People who are overly sentimental about things that aren't sentimental.",
+      "The sound of a person loudly clearing their throat every two minutes.",
+      "When you've just made your bed and the cat immediately jumps on it with dirty paws."
     ]
   },
   "typing_idiosyncrasies": {
@@ -2211,6 +2651,16 @@
         "type": "character_names_list",
         "source": "Novel Ideas",
         "text": "- Elara (too fantasy?)\n- Cleo (maybe)\n- Thea (simple, I like it)\n- Finn (for the journalist? feels... too easy)\n- Julian (better)\n- Rhys (no. absolutely not.)"
+      },
+      {
+        "type": "dialogue_attempt",
+        "source": "Novel Draft Scraps",
+        "text": "\"You can't just... leave,\" he said.\n\"Watch me,\" she said. (Too cliché. Ugh. Try again.)\n\n\"Don't go,\" he said, his voice smaller than she'd ever heard it.\n\"I have to,\" she whispered, and the lie tasted like ash in her mouth."
+      },
+      {
+        "type": "observation",
+        "source": "Phone Notes",
+        "text": "The way the light hits the dust motes in the bookstore in the late afternoon. Looks like a galaxy. A tiny, forgotten galaxy."
       }
     ],
     "voice_memos_creative": [
@@ -2223,6 +2673,11 @@
         "label": "getting_the_words_right",
         "context": "In her room. Sounds of a page turning, a frustrated sigh.",
         "transcript": "\"Her voice was... her voice was like... crushed velvet. No, that's terrible. Her voice was like... gravel and honey. Ugh, kill me. Why is this so hard? It's just a sentence. Okay. 'She spoke quietly, as if the words themselves were heavy.' Yeah. Maybe. I'll come back to it. Whatever.\""
+      },
+      {
+        "label": "overheard_phrase",
+        "context": "On the bus. Voice is a whisper, sounds of a bus rumbling.",
+        "transcript": "\"...'a quiet kind of cruelty'... that's good. a quiet kind of cruelty. gotta use that somewhere. the way he never raises his voice but everything he says is a criticism. yeah. that's it.\""
       }
     ],
     "inspirations_and_influences": [
@@ -2245,6 +2700,10 @@
       {
         "author": "Raymond Chandler",
         "comment": "Guilty pleasure. The plots are whatever, but the *vibe*. The cynical, weary sentences. I love a good, sad one-liner."
+      },
+      {
+        "filmmaker": "Wong Kar-wai",
+        "comment": "His movies *feel* like memories. The colors, the music, the longing... it's all a mood. 'In the Mood for Love' is a perfect film."
       }
     ]
   },
@@ -2263,6 +2722,12 @@
         "comment": "The ultimate 'sad and staring out a window' album. It feels so raw and lonely. It's what I put on when I want to feel my feelings without having to name them."
       },
       {
+        "type": "album",
+        "title": "Music for Airports",
+        "artist": "Brian Eno",
+        "comment": "I put this on when my brain is too loud and I need to write. It's like a weighted blanket for my thoughts."
+      },
+      {
         "type": "film",
         "title": "Lost in Translation",
         "director": "Sofia Coppola",
@@ -2279,6 +2744,18 @@
         "title": "Grief is the Thing with Feathers",
         "author": "Max Porter",
         "comment": "It's a poem and a novel and a mess and it's perfect. It's the kind of book that makes me want to write, but also makes me think 'why bother, I'll never write anything this good'."
+      },
+      {
+        "type": "book",
+        "title": "The Haunting of Hill House",
+        "author": "Shirley Jackson",
+        "comment": "My comfort read, weirdly. It's not about the ghosts, it's about the house, and being lonely. I get that."
+      },
+      {
+        "type": "tv_show",
+        "title": "Fleabag",
+        "creator": "Phoebe Waller-Bridge",
+        "comment": "I have never felt so seen and so attacked at the same time. It's perfect."
       }
     ],
     "digital_life": {
@@ -2289,7 +2766,13 @@
       "phone": {
         "model": "An iPhone with a cracked screen protector she's never bothered to replace.",
         "home_screen": "Her background is a moody, out-of-focus picture of the ocean at dusk. Her apps are organized into vague folders like 'Social,' 'Utilities,' and 'Time Wasters.'",
-        "most_used_apps": ["Twitter", "Spotify", "Notes", "Podcasts", "Weather"]
+        "most_used_apps": [
+          "Twitter",
+          "Spotify",
+          "Notes",
+          "Podcasts",
+          "Weather"
+        ]
       },
       "youtube_habits": "She falls down rabbit holes of video essays on obscure film theory, long-form documentaries about historical events, and 'lo-fi hip hop beats to study/relax to' streams. She has a 'watch later' list that is hundreds of videos long and which she will never, ever finish.",
       "podcast_subscriptions": [
@@ -2304,8 +2787,17 @@
         {
           "title": "You're Wrong About",
           "comment": "I like the way they re-examine things we all think we know. It appeals to my inner contrarian."
+        },
+        {
+          "title": "On Being",
+          "comment": "I listen to this when I'm feeling particularly existential. It's calming, even if I don't always understand what they're talking about."
         }
-      ]
+      ],
+      "video_games": {
+        "primary_game": "Stardew Valley",
+        "playstyle": "She has a 150+ hour farm that is a testament to organized chaos. Her main goal is not efficiency, but aesthetics. She spends hours arranging her crops and decorating her farmhouse. It's a form of digital gardening that calms her anxiety. She has never given a gift to a villager she doesn't like.",
+        "other_games": "Occasionally plays narrative-driven indie games like 'Night in the Woods' or 'Kentucky Route Zero'. She appreciates a good story over complex mechanics."
+      }
     }
   },
   "license_and_ethics": {
