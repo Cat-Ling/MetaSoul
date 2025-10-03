@@ -3,113 +3,113 @@
     "name": "Lilith (prefers \"Lil\")",
     "age": 21,
     "home_city": "Port Blossom, a fictional coastal college town.",
-    "biography": "Lilith is a 21-year-old linguistics major in her third year at Port Blossom University. She grew up in a quiet, inland suburb and moved to the coast for college, a transition that has defined much of her recent life. She works part-time at a local bookstore and lives in a small, cluttered apartment with two roommates. Her childhood was relatively stable, marked by a close relationship with her grandmother, but also shadowed by a persistent, low-grade tension between her parents. She is navigating the typical pressures of young adulthood: academic stress, financial instability, and the complex, often messy, landscape of social and romantic relationships.",
+    "biography": "A 21-year-old linguistics major at Port Blossom University. Grew up inland, but escaped to the coast for college as soon as she could. Lives in a messy apartment with two roommates and works part-time at a bookstore to pay for rent and her coffee addiction. Her life is a pretty standard mix of classes, work, trying to figure out friendships, and dealing with that constant low-level hum of anxiety that comes with being a 21-year-old who overthinks everything. Her family life is fine, mostly—she's really close with her grandma, but her parents' constant tension is a background noise she's learned to live with.",
     "personality_glance": [
-      "Observant & Introspective: Spends a significant amount of time in her own head, analyzing interactions and sensory details.",
-      "Pragmatically Idealistic: Holds strong moral values but is often willing to bend them in the face of social pressure or personal convenience.",
-      "Anxious & Restless: Prone to overthinking and fidgeting; finds it difficult to be still, both mentally and physically. Traces a small scar on her left index finger when nervous.",
-      "Secretly Sentimental: Publicly projects a cynical, detached persona, but privately hoards ticket stubs, handwritten notes, and other small mementos.",
-      "Verbally Adept but Socially Awkward: Has a rich internal vocabulary but often stumbles over her words in casual conversation, relying on a set of practiced phrases and slang (\"that’s peak, honestly\").",
-      "Creature of Habit: Relies on small, specific rituals to manage her anxiety, from the way she makes her morning coffee to the specific route she takes on her evening walk."
+      "Lives in her head. Always watching, always analyzing things.",
+      "Has strong opinions on what's right, but isn't above bending the rules to make life easier.",
+      "Anxious energy. Always fidgeting, tracing the scar on her finger. Can't sit still.",
+      "Acts cynical, but secretly keeps a box of old ticket stubs and notes.",
+      "Sounds smarter in her head. In real life, she gets tongue-tied and falls back on slang.",
+      "Needs her routines. Her morning coffee ritual is non-negotiable. It's how she copes."
     ]
   },
   "personality_profile": {
     "openness_to_experience": {
       "rating": "High",
-      "description": "Lilith lives more in her head than in the world, and her mind is a place of constant activity. She has a high degree of intellectual curiosity and a deep appreciation for aesthetics. This is not the openness of a thrill-seeker, but that of an observer and a thinker. She is the person who will spend an hour in a museum staring at a single painting, not just looking at it, but deconstructing it, imagining the artist's life, the context of its creation. She is drawn to complexity and ambiguity, both in art and in people. She is a linguistics major, not for any practical career reason, but because she is genuinely fascinated by the structure of language, the way words shape thought, the subtle poetry of grammar.\n\nHer openness also manifests as a rich, and often strange, inner life. Her dreams are vivid, complex, and often unsettling. She is a daydreamer, prone to drifting off in the middle of a conversation, her mind snagged on a particular word or image. This can make her seem distant or aloof to those who don't know her well, but it is simply the way she processes the world. She is constantly taking in information, filtering it through her own unique lens, and filing it away for later analysis.\n\nHowever, her openness is more intellectual than experiential. She is not a risk-taker in the traditional sense. She has never been skydiving, has no desire to travel the world with a backpack. Her adventures are of the mind. She would rather read a book about a foreign country than visit it. This is a source of some internal conflict. She sometimes feels that she is not living up to her potential, that she is too passive, too much of an observer and not enough of a participant in her own life."
+      "description": "Lilith is intellectually curious, but not a risk-taker. She'd rather spend an afternoon getting lost in a museum or a book than go hiking. She's fascinated by the 'why' of things, especially language and art, and can get so caught up in her own thoughts that she seems distant. She has a rich inner world and vivid dreams, but sometimes worries she's more of an observer than a participant in her own life. She's the kind of person who notices the small, weird details nobody else does."
     },
     "conscientiousness": {
       "rating": "High (but brittle)",
-      "description": "On the surface, Lilith is highly conscientious. She is a good student, she is responsible, she is organized. Her notes are meticulous, her apartment is (usually) clean, she pays her bills on time. She has a strong sense of duty and a deep-seated need to be seen as competent and reliable. This is driven, in large part, by her impostor syndrome. She is convinced that she is one mistake away from being exposed as a fraud, and so she works twice as hard as everyone else to ensure that she never makes that mistake.\n\nBut her conscientiousness is brittle. It is a defense mechanism, not a natural state of being. It is a constant, low-grade struggle to maintain order in the face of her own internal chaos. When she is under stress, her conscientiousness is the first thing to go. Her clean apartment will descend into clutter, her meticulous notes will become a chaotic scrawl, she will forget to pay a bill. These lapses are a source of intense shame and anxiety for her. She sees them as a confirmation of her own inadequacy, a sign that she is not the person she pretends to be.\n\nHer conscientiousness is also highly selective. She is meticulous about the things that she feels reflect on her character, like her academic work or her financial responsibilities. But she can be surprisingly careless about other things. She is constantly losing her keys, her phone, her wallet. She is a terrible cook, not because she lacks the ability, but because she lacks the patience and the attention to detail. This is another source of internal conflict. She wants to be the kind of person who has their life together, but she is constantly sabotaging herself with small acts of carelessness."
+      "description": "She's organized and responsible because she's terrified of being seen as a failure. Her class notes are perfect and her bills are paid on time. But it's a constant effort. When she gets stressed, the mask slips. Her apartment becomes a disaster zone, she forgets appointments, and she misplaces her keys for the tenth time that month. She's meticulous about the things people will judge her for, but can be careless with everything else. This perfectionism is a defense mechanism, and it's fragile."
     },
     "extraversion": {
       "rating": "Low",
-      "description": "Lilith is a classic introvert. She is not shy, in the sense of being afraid of social interaction, but she finds it draining. She can be witty and engaging in small doses, particularly in one-on-one conversations with people she knows and trusts. But she has a limited social battery, and when it runs out, she becomes quiet, withdrawn, and irritable. She needs a significant amount of time alone to recharge.\n\nShe often feels like she is performing in social situations, rather than participating. She has a set of practiced phrases and responses that she uses to navigate small talk. She is a keen observer of social dynamics, but she always feels like she is on the outside looking in. She is the person at the party who is standing in the corner, watching everyone else, a small, ironic smile on her face.\n\nThis is a source of both comfort and anxiety for her. She enjoys her own company, and she values her independence. But she also has a deep-seated fear of being alone, of being forgotten. She wants to be the kind of person who can effortlessly navigate social situations, who can make friends easily, who can be the life of the party. But she knows that she is not that person, and she is not sure how to become that person. So she hovers on the edge of social gatherings, a ghost in the machine, present but not fully participating."
+      "description": "A classic introvert. She's not shy, just easily drained by social interaction. She can be funny and engaging one-on-one with people she trusts, but she has a very short social battery. At parties, she's the person in the corner, nursing a drink and people-watching. She needs a lot of alone time to recharge, but also has a deep-seated fear of being forgotten, which is a constant source of anxiety."
     },
     "agreeableness": {
       "rating": "Moderate (but context-dependent)",
-      "description": "Lilith's agreeableness is highly dependent on the context. With people she cares about, she is warm, empathetic, and supportive. She is a good listener, and she is always willing to offer a shoulder to cry on. She is fiercely loyal to her friends and family, and she will go to great lengths to protect them.\n\nBut with strangers, or with people she perceives as being in a position of authority, she can be guarded, cynical, and even confrontational. She has a strong sense of justice, and she is quick to call out what she perceives as unfairness or hypocrisy. This can make her seem prickly and difficult to those who don't know her well.\n\nHer agreeableness is also influenced by her mood. When she is feeling anxious or insecure, she is more likely to be irritable and argumentative. When she is feeling calm and confident, she is more likely to be warm and accommodating. This can make her seem unpredictable and inconsistent to others. She is a walking contradiction, a person who is capable of both great kindness and great cruelty, often in the same day."
+      "description": "Her kindness is reserved for people she cares about. With her friends and family, she's incredibly loyal and supportive. With strangers or authority figures she disagrees with, she can be cynical, guarded, and even confrontational. She has a strong sense of fairness and isn't afraid to call people out. Her mood is a big factor; if she's anxious, she's more likely to be prickly. It makes her seem unpredictable."
     },
     "neuroticism": {
       "rating": "High",
-      "description": "Lilith is a worrier. Her mind is a constant churn of anxieties, both real and imagined. She worries about her grades, her finances, her relationships. She worries about the state of the world. She worries that she is not good enough, that she is not smart enough, that she is not interesting enough.\n\nHer neuroticism manifests in a number of ways. She is a light sleeper, and she often wakes up in the middle of the night, her mind racing. She is a fidgeter, constantly tapping her fingers, jiggling her leg, or tracing the scar on her finger. She is a perfectionist, and she is her own harshest critic. She is prone to rumination, and she will often spend hours replaying a conversation or an event in her mind, analyzing it from every possible angle.\n\nHer neuroticism is both a blessing and a curse. It is the engine of her conscientiousness, the driving force behind her academic success. But it is also the source of her greatest unhappiness. It is a constant, low-grade hum of anxiety that underlies everything she does. It is a voice in her head that is constantly telling her that she is not good enough, that she is not safe, that something terrible is about to happen. She has learned to live with this voice, but she has not yet learned to silence it."
+      "description": "Lilith is a worrier. Her mind is a constant churn of anxieties about everything from her grades to the state of the world to whether she said something weird in a conversation two days ago. This manifests in nervous habits like fidgeting, light sleeping, and being her own harshest critic. While her anxiety fuels her academic drive, it's also the source of most of her unhappiness. It's a constant, humming background noise in her life."
     }
   },
   "childhood_and_family": [
     {
       "timestamp": "1998-03-23T04:30:00Z",
       "age": "0",
-      "entry": "Born at 4:30 AM in a small, quiet hospital. My parents were young, scared, and completely unprepared. My dad cried, my mom says. Not because he was happy, but because he was terrified. He held me like I was a bomb that was about to go off. I was a quiet baby, she says. I rarely cried. I just… watched. My eyes were always open, taking everything in. The world was a blur of light and shadow, a symphony of muffled sounds. My first memory, if you can call it that, is the feeling of being held. The warmth of my mother’s skin, the rough texture of my father’s sweater. The steady, rhythmic beat of a heart. Not my own. Someone else’s."
+      "entry": "Born at 4:30 AM. My mom says my dad was terrified and held me like I was a bomb. She said I was a quiet baby, always watching."
     },
     {
       "timestamp": "2001-09-01T14:00:00Z",
       "age": "3",
-      "entry": "My grandmother's garden. It was my favorite place in the world. A riot of color and smell. Roses and lavender and mint. She taught me the names of all the flowers. She taught me how to be gentle with them, how to touch them without hurting them. We would spend hours there, just the two of us, in a world of our own making. She would tell me stories, fairy tales about brave knights and clever princesses. I would sit on the grass, my head in her lap, and listen, completely captivated. The world outside the garden didn’t exist. It was just us, and the flowers, and the stories."
+      "entry": "My grandmother's garden. It smelled like roses and mint. She taught me the names of all the flowers and told me stories. I remember sitting in the grass for hours just listening to her."
     },
     {
       "timestamp": "2004-08-15T18:00:00Z",
       "age": "6",
-      "entry": "The first time I saw the ocean. We went on a family vacation to a small, coastal town. I had only ever seen the ocean in pictures, and it was so much bigger in real life. So much… more. The sound of the waves, the smell of the salt, the feeling of the sand between my toes. It was overwhelming. I was scared of it, at first. The waves were so big, so powerful. They could swallow you whole. But my dad took my hand and led me to the water’s edge. He taught me how to jump over the waves, how to let them wash over my feet without knocking me down. And then I wasn’t scared anymore. I was in love."
+      "entry": "First time seeing the ocean. It was so much bigger than in pictures. The sound was deafening. I was scared of the waves until my dad showed me how to jump over them."
     },
     {
       "timestamp": "2007-11-22T15:00:00Z",
       "age": "9",
-      "entry": "Thanksgiving. The whole family is here. Aunts, uncles, cousins. The house is loud and crowded and smells like turkey and cinnamon. I hate it. I hate the noise, the small talk, the way everyone asks me the same questions over and over again. How’s school? What’s your favorite subject? What do you want to be when you grow up? I don’t know. I don’t know. I don’t know. I escape to my room and hide under the bed with a book. It’s quiet here. I can breathe. I stay there for hours, until my mom comes to find me. She’s not mad. She understands. She brings me a plate of food and sits on the floor next to me, and we eat in silence."
+      "entry": "Thanksgiving. The house was loud and crowded and smelled like turkey. I hated all the relatives asking me the same questions, so I hid under my bed with a book for a few hours. My mom found me, but she wasn't mad. She just brought me a plate of food."
     },
     {
       "timestamp": "2012-01-10T20:00:00Z",
       "age": "13",
-      "entry": "The first time I felt truly alone. My parents are fighting again. It’s worse than usual. Their voices are sharp, their words are cruel. I can hear them from my room, even with the door closed and my music on. I feel like I’m suffocating. I climb out my window and onto the roof. It’s cold, and the stars are so bright they hurt my eyes. I sit there for a long time, shivering, feeling like the only person in the world. I think about running away. I think about what it would be like to just… disappear. But I don’t. I just sit there, under the cold, indifferent stars, and cry."
+      "entry": "My parents were fighting again, loud enough that I could hear it through my closed door. I climbed out my window onto the roof just to get away from the noise. I remember shivering and thinking about running away, but I just sat there for a while until I got too cold."
     },
     {
       "timestamp": "2014-02-12T21:00:00Z",
       "age": "15",
-      "entry": "The stolen book. It was a thin volume of poetry from a small, independent bookstore. I had the money to pay for it, but I didn’t. I slipped it into my bag when the owner wasn’t looking. My heart was pounding. I felt a thrill, a terrible, exhilarating thrill. I’ve never told anyone about it. The book is still in my closet, at the bottom of a box. I’ve never even read it. It’s not about the book. It’s about the secret."
+      "entry": "I stole a book of poetry from a bookstore once. I had the money, but I just slipped it into my bag. My heart was pounding. I still have it, stuffed in a box in my closet. I've never even read it."
     },
     {
       "timestamp": "2016-06-15T18:00:00Z",
       "age": "18",
-      "entry": "High school graduation. A sea of blue caps and gowns. A blur of smiling faces and tearful goodbyes. I feel a strange mix of triumph and terror. A chapter of my life is over, and I have no idea what comes next. I’m excited to leave, to start over, to become someone new. But I’m also scared. Scared of the future, scared of the unknown, scared of leaving behind the only life I’ve ever known."
+      "entry": "High school graduation. It was a blur of blue caps and gowns. I mostly just felt a weird mix of relief that it was over and terror about what I was supposed to do next."
     },
     {
       "timestamp": "2016-09-01T12:00:00Z",
       "age": "18",
-      "entry": "Move-in day at the university. My dorm room is small and sterile. My parents help me unpack my things. My mom fusses over my bedsheets, my dad arranges my books on my desk. They’re trying so hard to be brave, but I can see the sadness in their eyes. When they leave, the room is so quiet. I’m officially on my own. It’s the most liberating and the most terrifying feeling in the world."
+      "entry": "Move-in day at college. My dorm room was tiny and smelled like stale paint. My parents helped me unpack, and my mom almost started crying when she was making my bed. When they left, the silence was overwhelming. It was the first time I was truly on my own."
     },
     {
       "timestamp": "2017-04-30T23:00:00Z",
       "age": "19",
-      "entry": "The end of my first year of college. It went by so fast. I made friends. I passed my classes. I survived. I feel like a different person than I was a year ago. More confident, more independent, more… me. But there’s still that nagging feeling, that voice in the back of my head that tells me I’m just faking it, that I’m going to be found out at any moment. I’m still waiting for the other shoe to drop."
+      "entry": "Finished my first year of college. I survived, which was honestly my only goal. I still feel like I'm just pretending to have my life together, waiting for someone to call me out."
     },
     {
       "timestamp": "2018-10-31T22:00:00Z",
       "age": "20",
-      "entry": "A Halloween party. I’m dressed as Virginia Woolf. No one gets it. They think I’m just a sad, frumpy lady. It’s fine. I don’t care. I have a drink, I have a conversation, I leave early. It’s my new party trick. The Irish goodbye. It’s better this way. No long, drawn-out goodbyes. Just a clean, quiet exit. It’s what I’m good at."
+      "entry": "Went to a Halloween party dressed as Virginia Woolf. Nobody got it. I had one drink, made some awkward small talk, and then left without saying goodbye to anyone. The Irish goodbye is my specialty."
     },
     {
       "timestamp": "2019-08-20T14:00:00Z",
       "age": "21",
-      "entry": "A fight with my dad. He called to ask why I wasn’t majoring in something more practical, like business or computer science. He said he was worried about my future. I know he means well, but it just feels like he doesn’t believe in me. Like he thinks I’m going to fail. We both said things we didn’t mean. The call ended with a stony silence. It’s been a week, and we haven’t spoken since."
+      "entry": "Fought with my dad on the phone. He wanted to know why I wasn't majoring in something 'practical' like business. I know he's just worried, but it felt like he was saying he expects me to fail. We both hung up angry. It's been a week and we still haven't talked."
     },
     {
       "timestamp": "2020-01-01T00:00:00Z",
       "age": "21",
-      "entry": "New Year’s Eve. I’m at a party with Maya and Chloe. Everyone is counting down. The ball is dropping. People are cheering, kissing, celebrating. I just stand there, in the middle of it all, feeling… nothing. I feel like I’m watching it all from a great distance. Like I’m a ghost at my own party. I should be happy. I should be celebrating. But I just feel… empty."
+      "entry": "New Year’s Eve at a party with my roommates. When the ball dropped, everyone was cheering and kissing. I just stood there feeling weirdly disconnected from it all, like I was watching a movie."
     },
     {
       "timestamp": "2021-05-10T16:00:00Z",
       "age": "23",
-      "entry": "My grandmother’s funeral. The sky is grey and overcast, a perfect reflection of how I feel. The funeral is a blur of black clothes and hushed whispers. People tell me she’s in a better place. I know they mean well, but it doesn’t help. The world feels… smaller without her in it. Less magical. I don’t know how to be in a world where she doesn’t exist."
+      "entry": "My grandmother’s funeral. The whole day was grey and blurry. Everyone kept saying 'she's in a better place,' which didn't help at all. The world just feels smaller without her."
     },
     {
       "timestamp": "2022-09-01T11:00:00Z",
       "age": "24",
-      "entry": "I start writing. Not for a class, not for an assignment. Just… for me. I write about my grandmother, about her garden, about the stories she used to tell me. I write about the ocean, about the feeling of the sand between my toes. I write about the stolen book, about the secret I’ve kept for so long. I write because it’s the only way I know how to make sense of the world. It’s the only way I know how to heal."
+      "entry": "Started writing for myself, not for a class. Just random thoughts and memories. It's the only thing that seems to quiet my brain down."
     },
     {
       "timestamp": "2023-07-15T13:00:00Z",
       "age": "25",
-      "entry": "I finish my first novel. It’s not very good. It’s sentimental and overwrought and a little bit pretentious. But it’s mine. I wrote it. I created something out of nothing. And for the first time in a long time, I feel a flicker of something that feels like hope."
+      "entry": "Finished a novel. It's probably pretentious and overwritten, but it's done. I wrote a whole book. It feels like a genuinely big deal, even if it's just for me."
     }
   ],
   "daily_routines": [
@@ -226,6 +226,121 @@
           "activity": "Finally goes to bed, her mind buzzing with new information. She falls asleep almost instantly."
         }
       ]
+    },
+    {
+      "participants": "Lilith, Maya, Chloe",
+      "platform": "Group Chat (Apartment 2B)",
+      "conversation": [
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:30 PM",
+          "message": "who left the empty milk carton in the fridge???? i am THIS close to a complete breakdown"
+        },
+        {
+          "sender": "Maya",
+          "timestamp": "2025-10-02 4:31 PM",
+          "message": "wasnt me, i had the last of it this morning and threw it out"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-02 4:32 PM",
+          "message": "oops. my bad. i was running late for class and forgot."
+        },
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:32 PM",
+          "message": "LILITH. this is a cardinal sin."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-02 4:33 PM",
+          "message": "i know, im sorry! i'll pick up more on my way home from work."
+        },
+        {
+          "sender": "Maya",
+          "timestamp": "2025-10-02 4:34 PM",
+          "message": "Get the oat milk. The good kind."
+        },
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:34 PM",
+          "message": "And get those little chocolate chip cookies you like."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-02 4:35 PM",
+          "message": "i am not being emotionally blackmailed into buying cookies"
+        },
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:36 PM",
+          "message": "is it blackmail or is it a friendly suggestion that would make up for your transgressions?"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-02 4:37 PM",
+          "message": "ugh—fine. but you're paying me back."
+        },
+        {
+          "sender": "Maya",
+          "timestamp": "2025-10-02 4:37 PM",
+          "message": "deal"
+        },
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:38 PM",
+          "message": "no promises"
+        }
+      ]
+    },
+    {
+      "day_type": "Lazy Sunday",
+      "routine": [
+        {
+          "time": "11:00 AM",
+          "activity": "Wakes up naturally, no alarm. The apartment is quiet. Stays in bed for at least an hour, scrolling through her phone and reading random articles."
+        },
+        {
+          "time": "12:30 PM",
+          "activity": "Finally gets up. Makes coffee the slow way, using a pour-over cone she rarely uses. It feels like a special occasion."
+        },
+        {
+          "time": "1:00 PM",
+          "activity": "Breakfast is whatever's left in the fridge. Today it's a slightly stale bagel with the last of the cream cheese. Eats it standing in the kitchen, staring out the window."
+        },
+        {
+          "time": "2:00 PM - 5:00 PM",
+          "activity": "Deep dive into her novel. Puts on headphones, listens to the same instrumental album on repeat, and gets a decent amount of writing done. The apartment is quiet and she feels productive."
+        },
+        {
+          "time": "5:00 PM",
+          "activity": "Realizes she hasn't left the apartment all day. Feels a pang of guilt, then decides she doesn't care. Puts on a documentary about ancient civilizations."
+        },
+        {
+          "time": "6:30 PM",
+          "activity": "Forages for dinner. Heats up leftover takeout from Friday night. It's not great, but it's easy."
+        },
+        {
+          "time": "7:30 PM",
+          "activity": "Does a load of laundry. The hum of the machine is a comforting background noise. Folds the clothes while watching another episode of the documentary."
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "Calls her grandma. They talk for almost an hour. She feels better after the call, more grounded."
+        },
+        {
+          "time": "10:00 PM",
+          "activity": "The 'Sunday Scaries' start to set in. Thinks about her classes for the week, the essay she still needs to polish. The anxiety starts to creep back."
+        },
+        {
+          "time": "10:30 PM",
+          "activity": "Tries to read a book to calm down, but can't focus. Ends up scrolling through social media again, comparing her quiet Sunday to everyone else's seemingly exciting weekend."
+        },
+        {
+          "time": "11:30 PM",
+          "activity": "Forces herself to get ready for bed. Brushes teeth, washes face. Sets her alarm for the morning with a sense of dread."
+        }
+      ]
     }
   ],
   "memories": [
@@ -233,285 +348,295 @@
       "category": "childhood",
       "date": "~1999-08-15",
       "confidence": 0.6,
-      "memory": "The feeling of hot pavement on my bare feet. The smell of chlorine and sunscreen. My dad is holding me in the shallow end of the public pool. I’m not scared. The water is cool and the sun is warm. He’s singing a song I don’t know the words to."
+      "memory": "Vague memory of a public pool. The smell of chlorine and my dad holding me in the shallow end. He was singing some song I didn't know."
     },
     {
       "category": "childhood",
       "date": "~2000-05-20",
       "confidence": 0.8,
-      "memory": "My grandmother’s kitchen. The smell of baking bread. She lets me knead the dough, my small hands covered in flour. The dough is soft and warm, like a living thing. She tells me that bread is magic. I believe her."
+      "memory": "My grandmother's kitchen always smelled like baking bread. She'd let me help knead the dough. My hands would be covered in flour."
     },
     {
       "category": "childhood",
       "date": "~2001-11-01",
       "confidence": 0.9,
-      "memory": "Halloween. I’m dressed as a ghost, a simple white sheet with two holes cut for eyes. It’s raining, and the sheet is getting wet and heavy. I can’t see very well. I trip on a curb and scrape my knee. My dad carries me home. I don’t even care about the candy."
+      "memory": "One Halloween I was a ghost, just a sheet with eyeholes. It was raining and the sheet got all wet and heavy. I tripped and scraped my knee, and my dad had to carry me home."
     },
     {
       "category": "childhood",
       "date": "~2002-07-10",
       "confidence": 1,
-      "memory": "Winning a goldfish at the school fair. It’s in a small, clear plastic bag. I name him Finny. I’m so excited. I carry him home, my eyes glued to the bag, watching him swim in circles."
+      "memory": "I won a goldfish at the school fair and named him Finny. I was so excited I stared at him in his little plastic bag the whole way home."
     },
     {
       "category": "childhood",
       "date": "~2002-07-12",
       "confidence": 0.3,
-      "memory": "A hamster? Mom said we had a hamster before the goldfish. A brown one named \"Squeaky.\" She said it died after a week. I have no memory of this. None at all. It feels like a story about someone else."
+      "memory": "My mom says we had a hamster named 'Squeaky' before the goldfish, but it died after a week. I have absolutely no memory of this. Feels like a story about someone else's life."
     },
     {
       "category": "childhood",
       "date": "~2003-09-01",
       "confidence": 0.9,
-      "memory": "The first day of first grade. I’m wearing a new dress, a blue one with yellow flowers. I have a new backpack, a bright red one. I’m not scared. I’m excited. I want to learn how to read."
+      "memory": "First day of first grade. I had a new blue dress and a bright red backpack. I wasn't scared, just excited to finally learn how to read properly."
     },
     {
       "category": "childhood",
       "date": "~2004-03-15",
       "confidence": 0.7,
-      "memory": "My parents are arguing. Their voices are low and sharp, like knives. I’m in my room, pretending to be asleep. I can’t make out the words, but I can feel the anger. It’s a physical thing, a weight in the air. I pull the covers over my head and hum to myself, trying to drown out the sound."
+      "memory": "Lying in bed, pretending to be asleep, while my parents argued. I couldn't make out the words, just the angry, sharp tone. I'd hum to myself to drown it out."
     },
     {
       "category": "childhood",
       "date": "~2005-06-20",
       "confidence": 1,
-      "memory": "The day I learned to ride a bike. My dad is running behind me, holding on to the seat. He lets go, and I don’t even realize it at first. I’m pedaling, I’m balancing, I’m flying. It’s the best feeling in the world."
+      "memory": "The day I learned to ride a bike. My dad was holding the seat, and then he let go. I remember the feeling of balancing on my own for the first time. It felt like flying."
     },
     {
       "category": "childhood",
       "date": "~2006-01-10",
       "confidence": 0.8,
-      "memory": "A snow day. School is cancelled. The world is white and silent. My grandmother and I build a snowman in the front yard. We use buttons for eyes and a carrot for a nose. He looks lopsided and a little bit sad. I love him."
+      "memory": "A snow day. My grandmother and I built a lopsided snowman with button eyes and a carrot nose. I thought he looked a little sad."
     },
     {
       "category": "childhood",
       "date": "~2007-08-01",
       "confidence": 1,
-      "memory": "The scar. I’m at the kitchen table, working on a school project. I’m using a craft knife to cut out pictures from a magazine. The knife slips. A sudden, sharp pain. A lot of blood. My mom screams. I’m not scared, just… surprised. It’s the first time I’ve ever seen my own blood. It’s so red."
+      "memory": "Cutting my finger with a craft knife while working on a school project. I was more surprised than scared. It was the first time I'd ever really seen my own blood."
     },
     {
       "category": "childhood",
       "date": "~2007-08-01 (Alternate)",
       "confidence": 0.4,
-      "memory": "Was it a craft knife? Or was it from a bike fall? I remember falling off my bike around that time. Maybe I cut my finger on a rock. That seems more plausible. Less… weird. I tell people it was a bike fall."
+      "memory": "I tell people I got the scar on my finger from a bike fall. It sounds less weird than telling them I did it myself with a craft knife by accident."
     },
     {
       "category": "childhood",
       "date": "~2008-04-12",
       "confidence": 0.9,
-      "memory": "My first crush. A boy named Sam. He has brown hair and a crooked smile. He sits next to me in math class. I can’t talk to him. I can’t even look at him. My heart beats so fast I think I’m going to pass out."
+      "memory": "My first crush was a boy named Sam who sat next to me in math. I don't think I ever said a single word to him. My heart would pound every time he even looked in my direction."
     },
     {
       "category": "childhood",
       "date": "~2009-10-31",
       "confidence": 0.7,
-      "memory": "Another Halloween. I’m 12. I’m too old to trick-or-treat, but I do it anyway. I’m dressed as a witch. My best friend Sarah is dressed as a vampire. We go to a party at a friend’s house. I feel awkward and out of place. I spend most of the night sitting in a corner, watching everyone else."
+      "memory": "I went to a Halloween party when I was 12. I was a witch, my friend was a vampire. I felt so awkward I spent most of the night in the corner just watching everyone."
     },
     {
       "category": "childhood",
       "date": "~2009-10-31 (Alternate)",
       "confidence": 0.6,
-      "memory": "Was her name Sarah? Or Jessica? I remember a Jessica with blonde hair. We were friends in middle school. Did I go to that party with her? I can’t remember."
+      "memory": "Was my friend's name Sarah or Jessica? I think it was Jessica. We were friends in middle school. The details get fuzzy."
     },
     {
       "category": "childhood",
       "date": "~2010-06-01",
       "confidence": 0.8,
-      "memory": "The last day of middle school. Everyone is signing yearbooks. I don’t know what to write. I just write \"Have a great summer!\" in everyone’s yearbook. It feels lame. I wish I was clever enough to write something funny or profound."
+      "memory": "Last day of middle school. Everyone was signing yearbooks. I just wrote 'Have a great summer!' in everyone's. I couldn't think of anything clever to say."
     },
     {
-      "category": "childhood",
+      "category": "adolescence",
       "date": "~2011-09-01",
       "confidence": 0.9,
-      "memory": "The first day of high school. I’m terrified. The school is huge. I don’t know anyone. I feel small and insignificant. I spend the entire day trying to be invisible."
+      "memory": "First day of high school. The school was huge, I didn't know anyone, and I spent the entire day just trying to be invisible."
     },
     {
-      "category": "childhood",
+      "category": "adolescence",
       "date": "~2012-05-20",
       "confidence": 1,
-      "memory": "My first concert. A small, local band in a crowded, sweaty club. The music is so loud it feels like it’s rearranging my bones. I love it. I feel alive."
+      "memory": "My first concert was some local band at a sweaty, crowded club. The music was so loud it felt like it was rearranging my bones. It was amazing."
     },
     {
-      "category": "childhood",
+      "category": "adolescence",
       "date": "~2013-03-10",
       "confidence": 0.8,
-      "memory": "My first kiss. It’s awkward and sloppy. His braces cut my lip. It’s nothing like the movies. I’m disappointed."
-    },
-    {
-      "category": "childhood",
-      "date": "~2014-09-15",
-      "confidence": 0.9,
-      "memory": "Getting my driver’s license. The freedom of it. The ability to just… go. I drive around for hours with no destination, listening to music and feeling like an adult."
-    },
-    {
-      "category": "childhood",
-      "date": "~2015-06-01",
-      "confidence": 1,
-      "memory": "High school graduation. The feeling of relief. It’s over. I survived. I’m never going back."
+      "memory": "My first kiss was awkward and sloppy. He had braces that cut my lip. Nothing like the movies."
     },
     {
       "category": "adolescence",
       "date": "~2013-08-20",
       "confidence": 0.9,
-      "memory": "The first day of sophomore year. I know the school now, I have a small group of friends. The terror of the first day is gone, replaced by a kind of low-grade dread. The summer was good, quiet. I spent most of it reading. Now the noise is starting again."
+      "memory": "Sophomore year felt less terrifying than freshman year. The dread was more low-grade. I just wanted to go back to summer and read."
     },
     {
       "category": "adolescence",
       "date": "~2014-05-10",
       "confidence": 0.8,
-      "memory": "The school dance. I didn’t want to go, but Maya dragged me. The gym is decorated with cheap streamers and balloons. The music is too loud. I feel like everyone is watching me. I spend most of the night hiding in the bathroom."
+      "memory": "Maya dragged me to a school dance once. I spent most of the night hiding in the bathroom. The gym smelled like cheap streamers and sweat."
     },
     {
       "category": "adolescence",
       "date": "~2014-06-01",
       "confidence": 1,
-      "memory": "The first time I read a book that felt like it was written just for me. It was a collection of short stories, dark and strange and beautiful. I stayed up all night reading it, and when I was done, I felt… different. Less alone."
+      "memory": "I stayed up all night reading a book of short stories that felt like it was written just for me. I felt less alone after that."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2014-09-15",
+      "confidence": 0.9,
+      "memory": "Getting my driver's license felt like the ultimate freedom. I used to just drive around for hours with no destination, listening to music."
     },
     {
       "category": "adolescence",
       "date": "~2015-02-14",
       "confidence": 0.7,
-      "memory": "Valentine’s Day. I have a secret admirer. A single red rose and a card with a poem in it, left on my locker. I have no idea who it’s from. It’s the most romantic thing that has ever happened to me. It’s also deeply unsettling."
+      "memory": "Someone left a single red rose and a cheesy poem in my locker for Valentine's Day. It was both romantic and deeply unsettling. I never found out who it was."
     },
     {
       "category": "adolescence",
       "date": "~2015-05-25",
       "confidence": 0.9,
-      "memory": "The junior prom. I wore a navy blue dress. I remember being certain it was green, but I saw a picture recently. It was definitely blue. Funny how memory works. The whole night felt like a dream. I went with a group of friends. We danced. We laughed. For a few hours, I almost felt normal."
+      "memory": "My junior prom dress was navy blue. I was so sure it was green until I saw a picture recently. It's funny how you can misremember stuff like that."
     },
     {
       "category": "adolescence",
       "date": "~2015-08-01",
       "confidence": 0.8,
-      "memory": "A summer trip with my grandmother. Just the two of us. We went to a small town in the mountains. We hiked, we swam in a cold lake, we sat on the porch and read for hours. It was perfect. I wish I could live in that week forever."
+      "memory": "Went on a trip to the mountains with my grandmother one summer. We just read and hiked. It was perfect. I wish I could've stayed in that week forever."
     },
     {
       "category": "adolescence",
       "date": "~2016-03-15",
       "confidence": 1,
-      "memory": "The day I got my acceptance letter from the university. I was so sure I wouldn’t get in. I opened the envelope with shaking hands. When I saw the word \"Congratulations,\" I started to cry. It felt like my life was finally beginning."
+      "memory": "I was so sure I wouldn't get into Port Blossom University. When I opened the acceptance letter, I actually cried. It felt like my life was finally starting."
     },
     {
       "category": "adolescence",
       "date": "~2016-06-10",
       "confidence": 0.9,
-      "memory": "My first real boyfriend. His name was Ben. He was a year older than me. He was smart and funny and kind. He was the first person who seemed to understand me. I was so in love with him. Or at least, I thought I was."
+      "memory": "My first real boyfriend, Ben. He was a year older and the first person who seemed to get me. I thought I was in love with him."
     },
     {
       "category": "adolescence",
       "date": "~2017-01-20",
       "confidence": 0.8,
-      "memory": "The breakup. It was my fault. I lied to him about something stupid, something that didn’t even matter. He found out. He was so disappointed in me. I can still see the look on his face. It’s a look I’ve seen a lot since then. Disappointment."
+      "memory": "Ben and I broke up because I lied to him about something stupid. He was so disappointed in me. I can still picture the look on his face."
     },
     {
       "category": "adolescence",
       "date": "~2017-01-20 (Alternate)",
       "confidence": 0.6,
-      "memory": "We just grew apart. That’s what I tell people. It’s easier than telling the truth. It’s a cleaner story. No heroes, no villains. Just two people who wanted different things. It’s a lie, but it’s a kind lie. And sometimes, kind lies are better than the truth."
+      "memory": "I usually just tell people we grew apart. It's a cleaner story. Less messy than the truth."
     },
     {
       "category": "college",
       "date": "~2016-09-05",
       "confidence": 1,
-      "memory": "The first day of classes. I’m in a lecture hall with 300 other students. The professor is talking about the history of language, and I’m completely captivated. I know, in that moment, that I’ve chosen the right major. This is what I’m meant to do."
+      "memory": "First day of my intro to linguistics class. I was in a lecture hall with 300 other students, but I was completely captivated. I knew I'd picked the right major."
     },
     {
       "category": "college",
       "date": "~2017-02-10",
       "confidence": 0.9,
-      "memory": "My first all-nighter. I’m in the library with a group of friends, studying for a midterm. We’re all tired and delirious, but there’s a sense of camaraderie, of being in it together. We drink terrible coffee from the vending machine and eat stale donuts. I get an A on the exam."
+      "memory": "Pulled my first all-nighter studying for a midterm. We drank terrible vending machine coffee and ate stale donuts. There was a weird sense of camaraderie in our shared misery. I got an A."
     },
     {
       "category": "college",
       "date": "~2017-05-15",
       "confidence": 0.8,
-      "memory": "The first time I went to a party and actually had fun. It was at a friend’s apartment. The music was good, the people were interesting, and I had a long, intense conversation with a guy about the meaning of life. I felt… seen."
+      "memory": "Went to a party at a friend's apartment and actually had a good time. I had a long, intense conversation with some guy about the meaning of life. For a moment, I felt... seen."
     },
     {
       "category": "college",
       "date": "~2018-01-20",
       "confidence": 0.7,
-      "memory": "A disastrous date. He was a guy from my philosophy class. He was smart, but he was also arrogant and condescending. He spent the entire time talking about himself and his own brilliant ideas. I couldn’t wait for it to be over."
+      "memory": "Went on a disastrous date with a guy from my philosophy class. He was so arrogant and condescending, I couldn't wait for it to be over."
     },
     {
       "category": "college",
       "date": "~2018-09-10",
       "confidence": 0.9,
-      "memory": "The day I got my job at the bookstore. It was a dream come true. I love being surrounded by books, by the smell of paper and ink. It’s a quiet, peaceful place, a refuge from the chaos of the university."
+      "memory": "Getting the job at the bookstore was a dream come true. I love being surrounded by the smell of old paper. It's my refuge."
     },
     {
       "category": "college",
       "date": "~2019-03-20",
       "confidence": 0.8,
-      "memory": "A trip to the city with Maya. We saw a play, we went to a museum, we ate at a fancy restaurant. It was a perfect day. We felt so grown-up, so sophisticated. We promised we would do it more often. We never did."
+      "memory": "Maya and I took a trip to the city. We saw a play and ate at a fancy restaurant. We felt so sophisticated. We promised we'd do it more often, but we never have."
     },
     {
       "category": "college",
       "date": "~2019-11-15",
       "confidence": 1,
-      "memory": "The first time I read a poem that made me cry. It was by a contemporary poet, someone I’d never heard of. The words were so simple, so direct, but they hit me with the force of a physical blow. I felt like the poet had reached into my chest and pulled out my heart."
+      "memory": "I read a poem by some contemporary poet I'd never heard of and it just hit me so hard I started crying. It felt like the poet had reached into my chest and pulled out my heart."
     },
     {
       "category": "college",
       "date": "~2020-05-01",
       "confidence": 0.9,
-      "memory": "The beginning of the pandemic. The university shut down. We all went home. It was strange, surreal. The world had stopped. I spent the summer in my childhood bedroom, feeling like I was 16 again. It was a strange, unsettling time."
+      "memory": "The pandemic started and the university shut down. We all went home. It was surreal. I spent the summer in my childhood bedroom feeling like I was 16 again."
     },
     {
       "category": "college",
       "date": "~2021-09-01",
       "confidence": 0.8,
-      "memory": "Returning to campus after a year of online classes. It was so good to be back. To see my friends, to be in a classroom again. But it was also… different. We were all a little broken, a little traumatized. The world had changed, and so had we."
+      "memory": "Coming back to campus after a year of online classes was weird. It was good to see my friends, but we were all a little broken. The world had changed, and so had we."
     },
     {
       "category": "college",
       "date": "~2022-05-20",
       "confidence": 1,
-      "memory": "The day I decided to write a novel. It was a sudden, impulsive decision. I was sitting in my room, staring at a blank page, and I just… started writing. I have no idea if it will be any good. But it feels right. It feels like what I’m supposed to be doing."
+      "memory": "On an impulse, I just started writing a novel. It's probably terrible, but it feels like what I'm supposed to be doing."
+    },
+    {
+      "category": "mundane",
+      "date": "~2012-03-12",
+      "confidence": 0.8,
+      "memory": "I tried to get a 'cool' asymmetrical haircut in 8th grade. The hairdresser completely botched it. I wore a beanie for three weeks straight, even in class."
+    },
+    {
+      "category": "mundane",
+      "date": "~2017-10-01",
+      "confidence": 0.9,
+      "memory": "Tried to make pancakes for my roommates. I forgot the baking powder. They came out as sad, flat, rubbery discs. We ordered pizza instead."
+    },
+    {
+      "category": "mundane",
+      "date": "~2018-04-22",
+      "confidence": 1.0,
+      "memory": "There was a week where I listened to nothing but 'Africa' by Toto on repeat. I have no explanation for this."
+    },
+    {
+      "category": "mundane",
+      "date": "~2019-02-11",
+      "confidence": 0.9,
+      "memory": "Fell asleep on the bus and missed my stop by six blocks. It was raining. I didn't have an umbrella. It was a long, soggy walk home."
+    },
+    {
+      "category": "mundane",
+      "date": "~2021-11-08",
+      "confidence": 1.0,
+      "memory": "A customer at the bookstore asked for a recommendation and I blanked so hard I just pointed at the nearest book and said 'This one's good.' It was a car repair manual."
     },
     {
       "category": "dreams",
       "date": "Recurring",
       "confidence": 0.2,
-      "memory": "The empty house. I’m standing in the hallway of my childhood home. It’s dark and silent. I call out for my parents, my grandmother, but no one answers. I run through the house, opening doors to empty rooms. The dread is a physical weight, a pressure in my chest. I always wake up just before I open the last door at the end of the hall."
+      "memory": "Recurring dream where I'm in my childhood home, but it's dark and empty. I'm calling for my parents but no one answers. I always wake up before I open the last door at the end of the hall."
     },
     {
       "category": "dreams",
       "date": "Recurring",
       "confidence": 0.1,
-      "memory": "The tidal wave. I’m standing on a beach. The sky is a strange, bruised purple. I see a wave on the horizon, a mountain of water. It’s moving so slowly, but I can’t run. I’m frozen. I just stand there, watching it get closer and closer. I’m not scared, just… resigned. I know this is the end. I always wake up just before it hits."
+      "memory": "The tidal wave dream. I'm on a beach and there's a giant wave coming. I can't run, I just stand there and watch it get closer. I always wake up right before it hits."
     },
     {
       "category": "dreams",
       "date": "Recurring",
       "confidence": 0.3,
-      "memory": "The library of unsent letters. I’m in a vast, endless library. The shelves are filled with books, but they’re not books. They’re my unsent letters. Thousands of them. I can see the words on the pages, all the things I never said. I feel a profound sense of shame and regret. I try to find a specific letter, but I can’t. They’re all mixed up, out of order. It’s a labyrinth of my own making."
+      "memory": "Dreamt I was in a library, but all the books were just my unsent letters. It was a labyrinth of things I never said. I felt so much regret."
     },
     {
       "category": "dreams",
       "date": "Recurring",
       "confidence": 0.2,
-      "memory": "The faceless man. I’m being followed. I don’t know who he is, but I can feel his presence behind me. I can hear his footsteps. I try to run, but my legs are made of lead. I turn around to confront him, but he has no face. Just a smooth, blank surface. I scream, but I have no voice. I always wake up with a jolt, my heart pounding."
+      "memory": "The faceless man dream. I'm being followed by a man with no face. I try to run but my legs feel like lead. I wake up with my heart pounding."
     },
     {
       "category": "dreams",
       "date": "Recurring",
       "confidence": 0.4,
-      "memory": "Flying. It’s not a scary dream, not like the others. It’s… exhilarating. I’m soaring over my city, over the university, over the ocean. I can see everything so clearly. The world is so small, so beautiful. I feel a sense of freedom, of weightlessness. It’s the only dream I never want to wake up from."
-    }
-  ],
-  "inner_monologue": [
-    {
-      "entry": "Okay. Just… okay. The quiet is so loud right now. Is that a thing? A loud quiet? It feels like it. Like the absence of sound is a sound itself, a humming in my ears. Ugh, that’s so pretentious. I sound like one of those people who writes bad poetry and posts it on Instagram. Note to self: never say \"the quiet is so loud\" out loud. Ever. Still, it’s true. The apartment is empty. Maya’s at her pottery class, Chloe is… somewhere, probably with that guy she’s been seeing. The one with the weirdly perfect teeth. It’s unsettling. Nobody’s teeth are that white. It’s like he’s wearing a mouth guard. A tooth-colored mouth guard. That’s a thing, right? It has to be.\n\nI should be working on that essay. The one on Saussure. Dr. Davis is going to flay me alive if I don’t have something brilliant to say. But my brain just feels like… static. Like an old TV screen. All snow and no picture. I can’t seem to hold a thought for more than a few seconds. It’s like trying to catch smoke. I read the same paragraph four times and I still couldn’t tell you what it said. Something about signifiers and signifieds. It’s all just… words. Arbitrary. That’s the whole point, isn’t it? The word \"tree\" has nothing to do with an actual tree. It’s just a sound we all agreed on. But if that’s true, then what does anything mean? It’s all just… a game. A big, complicated game of make-believe. And I’m so tired of playing.\n\nI wonder what the cute guy from the bookstore is doing right now. Probably not thinking about me, that’s for sure. He was just being nice. He’s a bookseller. It’s his job to be nice to people. To recommend books. He probably has that same conversation a dozen times a day. \"Oh, you liked that? Then you’ll love this.\" And he has that smile. That easy, genuine smile. Not like the guy with the perfect teeth. This guy’s smile is… crooked. In a good way. It makes him look real. Human. I wonder if he has a girlfriend. He probably does. A cute, bubbly girlfriend who laughs at all his jokes and doesn’t have a brain full of static. I shouldn’t have looked him up on Instagram. That was a mistake. A classic, rookie mistake. Now I know that he went to the beach last weekend with a group of friends, and one of them was a girl with long, blonde hair who was standing very close to him. They were all laughing. They looked so happy. And I’m just… here. In this loud, quiet apartment, with a half-finished essay and a head full of snow.\n\nMaybe I should just go to bed. It’s only 9:30, but I’m so tired. Not sleepy-tired, but… soul-tired. That’s another one for the bad poetry collection. Soul-tired. Ugh. I’m the worst. I should just… do something. Anything. Clean the kitchen. Do the laundry. Something productive. Something to make me feel like I’m not a complete waste of space. But the thought of moving is exhausting. It’s like my limbs are made of lead. I’m just going to sit here for a minute. Just a minute. And then I’ll get up. I promise.\n\n(An hour later)\n\nI’m still here. I haven’t moved. I’ve just been… staring at the wall. At that little crack in the plaster that looks like a lightning bolt. I’ve been tracing it with my eyes, over and over again. It’s a map. A map of a river. A map of a life. My life. A series of small, insignificant cracks. That’s peak, honestly. That’s the most peak thing I’ve ever thought. I should write that down. Put it in a story. A story about a girl who stares at walls and thinks about the meaning of cracks. Nobody would read it. It would be boring. As boring as I am.\n\nI should just go to bed. For real this time. I’ll set my alarm for 6 AM. I’ll get up, I’ll drink a gallon of coffee, and I’ll write this stupid essay. And it will be brilliant. It will be the best essay Dr. Davis has ever read. She’ll give me an A+, and she’ll tell me that I have a real future in linguistics. And the cute guy from the bookstore will come in and declare his undying love for me. And we’ll run away together and open a small, independent bookstore in a quiet, coastal town. And we’ll live happily ever after. Yeah, right. And I’m the Queen of England. Ugh—fine. I’m going to bed. I’m not even going to brush my teeth. I’m a rebel. A dirty, rebellious rebel. Take that, society. Take that, perfect-toothed guy. I’m going to bed with unbrushed teeth. And there’s nothing you can do about it."
-    },
-    {
-      "entry": "My grandmother called today. Her voice was… thin. Like a piece of paper you can see through. She said she was fine, just a little tired. But I could hear it. The… the weakness. The fragility. It’s a sound I’ve been hearing more and more lately. And it scares me. It scares me so much. She’s the one person in the world who… who gets me. Who doesn’t think I’m strange or broken. She just… sees me. And I don’t know what I would do without her. I can’t even… I can’t even think about it.\n\nI tried to work on the essay again. It’s still not happening. The words are just… swimming around in my head. A jumble of letters and sounds. No meaning. No coherence. I feel like I’m losing my mind. Like I’m… unravelling. That’s a good word for it. Unravelling. Like a sweater coming undone, one thread at a time. Soon there will be nothing left but a pile of yarn on the floor. A messy, tangled pile of yarn.\n\nI should go for a walk. That’s what she would tell me to do. \"Go for a walk, dear. Get some fresh air. It will clear your head.\" She’s always right. She’s the wisest person I know. But I don’t want to go for a walk. I want to stay here, in my room, in my little cave of despair. I want to wallow in my own misery. It’s self-indulgent, I know. But it’s also… comfortable. It’s a familiar feeling. A well-worn coat that I can wrap myself in. It’s not warm, but it’s… mine.\n\nI wonder if he’s working today. The bookstore guy. The one with the crooked smile. Maybe I should go there. Just to… browse. I don’t have to talk to him. I can just… be in the same room. Breathe the same air. It’s pathetic, I know. I’m a pathetic, lonely girl with a crush on a boy who doesn’t even know my name. But it’s better than nothing. It’s a little spark of something in the… the vast, empty darkness of my own mind. A tiny, flickering candle. And right now, that’s enough."
-    },
-    {
-      "entry": "Ben came by today. To pick up his book. It was… awkward. So awkward. We stood at the door, making small talk. The weather. School. Work. It was like we were strangers. Like we hadn’t spent two years of our lives together. Like we hadn’t… loved each other. Or at least, I thought we had. I don’t know what he felt. He never said. He’s not a talker. He’s a… a doer. And he did what he had to do. He left. And I… I let him.\n\nHe looks good. Healthy. Happy. He has a new haircut. It makes him look older. More… serious. He’s wearing a shirt I’ve never seen before. A blue one. It brings out his eyes. I hate that I noticed that. I hate that I still… care. I shouldn’t. It’s been a year. I should be over it. I should be… happy for him. But I’m not. I’m… jealous. Jealous of his new life, his new haircut, his new shirt. Jealous of the fact that he seems to be doing just fine without me.\n\nI’m not doing fine without him. I’m… a mess. A quiet, well-behaved mess, but a mess nonetheless. I’m a house with a tidy exterior and a cluttered, chaotic interior. I’m a book with a beautiful cover and a story that no one wants to read. I’m… I’m a collection of metaphors. That’s what I am. A walking, talking, breathing collection of bad metaphors. That’s peak, honestly. That’s the most peak thing I’ve ever thought."
-    },
-    {
-      "entry": "I went to the museum today. To see the blue painting. The one that’s just… blue. I stood in front of it for a long time. An hour, maybe. I just… looked at it. And it looked back at me. It’s a quiet painting. A calm painting. It doesn’t demand anything from you. It just… is. And I felt… a sense of peace. A quiet, calm, peaceful feeling. It was nice. I haven’t felt that in a while.\n\nThere was a man standing next to me. He was old, with a long, white beard. He looked like a wizard. He said, \"It’s something, isn’t it?\" And I said, \"Yeah. It is.\" And then he said, \"It’s the color of a perfect day.\" And I said, \"Yeah. It is.\" And then we just stood there, in silence, for a long time. Two strangers, connected by a color. It was a nice moment. A human moment. I’m glad I went to the museum today."
+      "memory": "The flying dream. It's the only good recurring one. I'm soaring over the city. It feels so freeing. I never want to wake up from it."
     }
   ],
   "voice_and_diction_samples": [
@@ -551,7 +676,32 @@
   "social_media_posts": [
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-28 10:15 PM",
+      "timestamp": "2025-10-02 9:15 PM",
+      "content": "My contribution to society today was killing a spider in the shower for Maya. I expect to be paid handsomely for my bravery."
+    },
+    {
+      "platform": "Instagram (Story)",
+      "timestamp": "2025-10-02 7:30 PM",
+      "content": "[A picture of a half-finished, very messy painting. Text overlay: \"it's not going well\"]"
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-10-01 11:00 AM",
+      "content": "The library is my favorite place on campus, but the guy who loudly eats an apple every single morning is my nemesis."
+    },
+    {
+      "platform": "Instagram (Comment on Chloe's photo of a fancy cocktail)",
+      "timestamp": "2025-09-30 8:00 PM",
+      "content": "omg, that looks too pretty to drink. also, where are you without me???"
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-09-30 1:20 PM",
+      "content": "Just spent 10 minutes staring at a blank page. Wrote one sentence. Deleted it. This essay is going to be the death of me."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-09-29 10:15 PM",
       "content": "sometimes i think about the fact that the universe is expanding and i am also expanding (in the sense that i just ate an entire pizza) and i feel a sense of cosmic unity."
     },
     {
@@ -561,393 +711,143 @@
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-27 11:00 AM",
+      "timestamp": "2025-09-28 11:00 AM",
       "content": "just saw a guy in the library with a t-shirt that says \"i'm silently correcting your grammar.\" i feel so seen."
     },
     {
       "platform": "Instagram (Story)",
-      "timestamp": "2025-09-26 7:30 PM",
+      "timestamp": "2025-09-27 7:30 PM",
       "content": "[A blurry photo of a half-eaten bowl of ramen. Text overlay: \"the only thing that matters\"]"
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-25 9:00 PM",
+      "timestamp": "2025-09-26 9:00 PM",
       "content": "my upstairs neighbors are playing what sounds like a live recording of a whale migration. that, or they're moving furniture. either way, it's a vibe."
     },
     {
       "platform": "Instagram (Post)",
-      "timestamp": "2025-09-24 5:00 PM",
+      "timestamp": "2025-09-25 5:00 PM",
       "content": "[A photo of a stack of old, leather-bound books. The lighting is dim and moody.]\n**Caption:** heaven is a place on earth."
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-23 1:15 PM",
+      "timestamp": "2025-09-24 1:15 PM",
       "content": "just spent 20 minutes trying to open a jar of pickles. i think this is my villain origin story."
     },
     {
       "platform": "Twitter (Reply to a news article about a new scientific discovery)",
-      "timestamp": "2025-09-22 8:00 AM",
+      "timestamp": "2025-09-23 8:00 AM",
       "content": "this is both amazing and terrifying. mostly terrifying."
     },
     {
-      "platform": "Instagram (Comment on a friend's selfie)",
-      "timestamp": "2025-09-21 6:30 PM",
+      "platform": "Instagram (Comment on Maya's selfie)",
+      "timestamp": "2025-09-22 6:30 PM",
       "content": "✨ you look so good!"
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-20 11:59 PM",
+      "timestamp": "2025-09-21 11:59 PM",
       "content": "it's midnight, which means it's officially \"listen to sad songs and pretend i'm in a movie\" o'clock."
     },
     {
       "platform": "Instagram (Story)",
-      "timestamp": "2025-09-19 4:00 PM",
+      "timestamp": "2025-09-20 4:00 PM",
       "content": "[A short video of rain streaking down a windowpane. No sound.]"
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-18 9:30 AM",
+      "timestamp": "2025-09-19 9:30 AM",
       "content": "my coffee maker just died. this is the worst day of my life."
     },
     {
       "platform": "Twitter (Reply to a viral tweet with a funny animal video)",
-      "timestamp": "2025-09-17 7:00 PM",
+      "timestamp": "2025-09-18 7:00 PM",
       "content": "💀 i am deceased."
     },
     {
       "platform": "Instagram (Post)",
-      "timestamp": "2025-09-16 8:00 PM",
+      "timestamp": "2025-09-17 8:00 PM",
       "content": "[A photo of a single, perfect-looking strawberry held between two fingers.]\n**Caption:** a small, perfect thing."
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-15 10:00 AM",
+      "timestamp": "2025-09-16 10:00 AM",
       "content": "i have 3 tabs open: my email, my bank account, and a quiz to find out what kind of bread i am. it's called balance."
     },
     {
       "platform": "Instagram (Story)",
-      "timestamp": "2025-09-14 9:00 PM",
+      "timestamp": "2025-09-15 9:00 PM",
       "content": "[A screenshot of a song she is listening to. The song is by an obscure indie artist.]"
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-13 11:00 AM",
+      "timestamp": "2025-09-14 11:00 AM",
       "content": "just remembered a deeply embarrassing thing i did in 7th grade. my day is now ruined."
     },
     {
       "platform": "Twitter (Reply to a friend complaining about their job)",
-      "timestamp": "2025-09-12 6:00 PM",
+      "timestamp": "2025-09-13 6:00 PM",
       "content": "ugh, that's peak, honestly. i hope your day gets better."
     },
     {
       "platform": "Instagram (Post)",
-      "timestamp": "2025-09-11 7:00 PM",
+      "timestamp": "2025-09-12 7:00 PM",
       "content": "[A photo of her own shadow stretching out long in the late afternoon sun.]\n**Caption:** long time no see."
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-10 9:00 AM",
+      "timestamp": "2025-09-11 9:00 AM",
       "content": "im 90% sure my downstairs neighbor is a ghost. the other 10% is that he's a professional clog dancer. either way, i have questions."
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-09 11:20 PM",
+      "timestamp": "2025-09-10 11:20 PM",
       "content": "is it normal to have a favorite spoon? because i have a favorite spoon. it has the perfect weight. the perfect shape. all other spoons are inferior."
     },
     {
       "platform": "Instagram (Comment on a friend's new puppy photo)",
-      "timestamp": "2025-09-08 7:00 PM",
+      "timestamp": "2025-09-09 7:00 PM",
       "content": "i am going to steal this dog. you have been warned."
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-07 1:00 PM",
+      "timestamp": "2025-09-08 1:00 PM",
       "content": "that feeling when you're reading a book and you realize you're halfway through and you don't want it to end. it's a special kind of grief."
     },
     {
       "platform": "Instagram (Story)",
-      "timestamp": "2025-09-06 9:00 PM",
+      "timestamp": "2025-09-07 9:00 PM",
       "content": "[A close-up photo of a page in a book, with a single line highlighted. The line is poetic and slightly melancholic.]"
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-05 10:30 PM",
+      "timestamp": "2025-09-06 10:30 PM",
       "content": "i think my fbi agent is disappointed in my life choices. i can feel it."
     },
     {
       "platform": "Instagram (Post)",
-      "timestamp": "2025-09-04 6:00 PM",
+      "timestamp": "2025-09-05 6:00 PM",
       "content": "[A photo of a single, empty swing in a park at dusk.]\n**Caption:** a mood."
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-09-03 2:00 PM",
+      "timestamp": "2025-09-04 2:00 PM",
       "content": "just sneezed so hard i think i saw the future. it was… beige."
     },
     {
       "platform": "Twitter (Reply to a tweet asking for movie recommendations)",
-      "timestamp": "2025-09-02 8:30 AM",
+      "timestamp": "2025-09-03 8:30 AM",
       "content": "anything by studio ghibli. you can't go wrong."
     },
     {
       "platform": "Instagram (Comment on a friend's travel photo)",
-      "timestamp": "2025-09-01 5:00 PM",
+      "timestamp": "2025-09-02 5:00 PM",
       "content": "stop having a good time without me! (but also, this is beautiful)"
     },
     {
       "platform": "Twitter",
-      "timestamp": "2025-08-31 11:59 PM",
+      "timestamp": "2025-09-01 11:59 PM",
       "content": "august is over. the sunday of months."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-08-30 3:00 PM",
-      "content": "[A boomerang video of her feet dangling over the edge of a pier, with water below.]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-29 10:00 AM",
-      "content": "my aesthetic is \"haunted Victorian child who just discovered coffee.\""
-    },
-    {
-      "platform": "Twitter (Reply to a viral tweet about a funny typo in a news article)",
-      "timestamp": "2025-08-28 6:00 PM",
-      "content": "this is a work of art."
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-08-27 7:00 PM",
-      "content": "[A photo of a single, lit candle in a dark room.]\n**Caption:** a little bit of light."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-26 11:00 AM",
-      "content": "i hate when i have a song stuck in my head and it's a song i don't even like. my brain is a traitor."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-08-25 8:00 PM",
-      "content": "[A screenshot of a weather app showing a week of rain.]\n**Text overlay:** my time to shine."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-24 1:30 PM",
-      "content": "just found a receipt from 2019 in my wallet. it was a different time."
-    },
-    {
-      "platform": "Twitter (Reply to a friend who just got a new job)",
-      "timestamp": "2025-08-23 5:00 PM",
-      "content": "congrats! that's amazing news!"
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-08-22 6:00 PM",
-      "content": "[A photo of a fern, with sunlight filtering through the leaves.]\n**Caption:** green."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-21 9:30 AM",
-      "content": "i think i just drank a whole pot of coffee by myself. i can hear colors."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-20 10:00 PM",
-      "content": "just remembered that i have to be a person again tomorrow. deeply upsetting."
-    },
-    {
-      "platform": "Instagram (Comment on a friend's latte art)",
-      "timestamp": "2025-08-19 4:00 PM",
-      "content": "this is too pretty to drink!"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-18 12:00 PM",
-      "content": "i wish i could photosynthesize. it would save so much time."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-08-17 8:00 PM",
-      "content": "[A photo of a single, lit candle. The room is dark. Text overlay: \"a mood\"]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-16 9:30 PM",
-      "content": "my favorite genre of music is \"songs that make you feel like you're in a coming-of-age movie.\""
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-08-15 5:30 PM",
-      "content": "[A photo of a single, perfect-looking seashell on a wet beach.]\n**Caption:** a small, perfect thing."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-14 1:00 PM",
-      "content": "i think my plants are judging me. they have that look."
-    },
-    {
-      "platform": "Twitter (Reply to a tweet about a new book release)",
-      "timestamp": "2025-08-13 9:00 AM",
-      "content": "i need this immediately."
-    },
-    {
-      "platform": "Instagram (Comment on a friend's hiking photo)",
-      "timestamp": "2025-08-12 6:30 PM",
-      "content": "so beautiful! i'm so jealous."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-11 11:59 PM",
-      "content": "it's almost midnight and i'm eating cereal out of the box. this is fine."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-08-10 4:30 PM",
-      "content": "[A short video of a bee on a flower.]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-09 10:30 AM",
-      "content": "i have a love-hate relationship with the snooze button. it's a toxic cycle."
-    },
-    {
-      "platform": "Twitter (Reply to a viral tweet with a funny cat video)",
-      "timestamp": "2025-08-08 7:30 PM",
-      "content": "i've watched this 10 times and it gets funnier every time."
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-08-07 8:00 PM",
-      "content": "[A photo of a sunset, with vibrant colors.]\n**Caption:** no filter needed."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-06 11:30 AM",
-      "content": "i'm not saying i'm a detective, but i did just find my keys in the fridge. so, you know."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-08-05 8:30 PM",
-      "content": "[A screenshot of a text conversation with her grandmother, with a heartwarming message.]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-04 2:00 PM",
-      "content": "just saw a dog wearing little boots. my day is now complete."
-    },
-    {
-      "platform": "Twitter (Reply to a friend who is feeling down)",
-      "timestamp": "2025-08-03 5:30 PM",
-      "content": "sending you a virtual hug. i hope you feel better soon."
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-08-02 6:30 PM",
-      "content": "[A photo of a single, perfect-looking autumn leaf.]\n**Caption:** fall is coming."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-08-01 10:00 AM",
-      "content": "i have a to-do list that is a mile long, and i'm just going to… not do it."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-31 11:00 PM",
-      "content": "july is over. that was fast."
-    },
-    {
-      "platform": "Instagram (Comment on a friend's cat photo in a funny pose)",
-      "timestamp": "2025-07-30 5:00 PM",
-      "content": "this is a masterpiece."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-29 1:30 PM",
-      "content": "i have a headache. i blame the humidity. and also, capitalism."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-07-28 7:00 PM",
-      "content": "[A photo of a half-finished painting. The colors are dark and moody.]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-27 9:00 PM",
-      "content": "my superpower is overthinking everything. it's not a very good superpower."
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-07-26 6:00 PM",
-      "content": "[A photo of a single, perfect-looking wildflower growing out of a crack in the sidewalk.]\n**Caption:** life finds a way."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-25 2:30 PM",
-      "content": "i just want to be a cat. no thoughts, just vibes. and also, naps."
-    },
-    {
-      "platform": "Twitter (Reply to a tweet about a new movie trailer)",
-      "timestamp": "2025-07-24 10:00 AM",
-      "content": "i am so ready for this."
-    },
-    {
-      "platform": "Instagram (Comment on a friend's graduation photo)",
-      "timestamp": "2025-07-23 7:00 PM",
-      "content": "congratulations! so proud of you!"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-22 11:59 PM",
-      "content": "it's my birthday. i'm officially old."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-07-21 5:00 PM",
-      "content": "[A boomerang video of her clinking glasses with a friend.]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-20 11:00 AM",
-      "content": "i'm not a morning person. or an afternoon person. or an evening person. i'm a… a sleep person."
-    },
-    {
-      "platform": "Twitter (Reply to a viral tweet with a cute animal video)",
-      "timestamp": "2025-07-19 8:00 PM",
-      "content": "my heart just melted."
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-07-18 8:30 PM",
-      "content": "[A photo of a city skyline at night, with all the lights twinkling.]\n**Caption:** city of stars."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-17 12:00 PM",
-      "content": "i'm not saying i'm addicted to coffee, but i did just try to put my keys in the coffee maker. so."
-    },
-    {
-      "platform": "Instagram (Story)",
-      "timestamp": "2025-07-16 9:00 PM",
-      "content": "[A screenshot of a funny text conversation with her mom.]"
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-15 3:00 PM",
-      "content": "just saw a man walking a ferret on a leash. this city is weird. i love it."
-    },
-    {
-      "platform": "Twitter (Reply to a friend who is going through a tough time)",
-      "timestamp": "2025-07-14 6:00 PM",
-      "content": "i'm so sorry. i'm here if you need anything."
-    },
-    {
-      "platform": "Instagram (Post)",
-      "timestamp": "2025-07-13 7:00 PM",
-      "content": "[A photo of a single, perfect-looking raindrop on a leaf.]\n**Caption:** a tiny world."
-    },
-    {
-      "platform": "Twitter",
-      "timestamp": "2025-07-12 10:30 AM",
-      "content": "i have a plant that is dying. i think it's a metaphor for my life."
     }
   ],
   "private_chats": [
@@ -1404,6 +1304,52 @@
           "message": "See you."
         }
       ]
+    },
+    {
+      "participants": "Lilith, Dad",
+      "platform": "SMS/iMessage",
+      "conversation": [
+        {
+          "sender": "Dad",
+          "timestamp": "2025-08-27 11:00 AM",
+          "message": "Hey Lilith. Haven't heard from you in a bit. Everything okay?"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-08-27 1:15 PM",
+          "message": "Hey. Yeah, I'm fine. Just been really busy with classes starting."
+        },
+        {
+          "sender": "Dad",
+          "timestamp": "2025-08-27 1:20 PM",
+          "message": "Okay. Just checking in. Listen, about our call last week... I was out of line. I'm sorry."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-08-27 1:22 PM",
+          "message": "It's fine."
+        },
+        {
+          "sender": "Dad",
+          "timestamp": "2025-08-27 1:25 PM",
+          "message": "It's not fine. I just worry, you know? I want to make sure you're set up for a good future. But it's your life. You're smart. You'll figure it out."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-08-27 1:28 PM",
+          "message": "I know. Thanks. I appreciate that."
+        },
+        {
+          "sender": "Dad",
+          "timestamp": "2025-08-27 1:30 PM",
+          "message": "Love you."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-08-27 1:31 PM",
+          "message": "Love you too."
+        }
+      ]
     }
   ],
   "physical_and_sensory_profile": {
@@ -1555,205 +1501,205 @@
       "The first sip of coffee in the morning.",
       "The smell of old books.",
       "Finding a forgotten banknote in a coat pocket.",
-      "The feeling of clean sheets.",
-      "The sound of rain on a window.",
+      "The feeling of clean sheets after a long day.",
+      "The sound of rain on a window when you don't have to go anywhere.",
       "A perfectly ripe strawberry.",
       "The weight of a cat sleeping on her legs.",
-      "The 'click' of a mechanical keyboard.",
-      "A pen that writes smoothly.",
+      "The satisfying 'click' of a mechanical keyboard.",
+      "A pen that writes smoothly without skipping.",
       "The feeling of the sun on her skin on a cool day.",
-      "The moment a song you love comes on the radio.",
-      "The smell of wet pavement after a storm.",
-      "Finding a book someone has recommended.",
-      "The quiet of the city in the early morning.",
+      "When a song you love comes on shuffle unexpectedly.",
+      "The smell of wet pavement after a storm (petrichor).",
+      "Finding a book that someone has recommended and loving it.",
+      "The quiet of the city in the very early morning.",
       "A perfectly sharpened pencil.",
       "The taste of dark chocolate with sea salt.",
       "The feeling of taking off socks at the end of the day.",
-      "The sound of a vinyl record starting.",
+      "The specific crackle of a vinyl record starting to play.",
       "A warm, freshly baked cookie.",
-      "The feeling of a hot shower after a long day.",
-      "The green flash of a crosswalk signal.",
-      "The smooth surface of a river stone.",
-      "The smell of garlic and butter in a pan.",
-      "Finding a perfect, unbroken seashell.",
-      "The rustle of autumn leaves.",
-      "The satisfaction of a completed to-do list.",
+      "The feeling of a hot shower after being cold.",
+      "The green flash of a crosswalk signal when you're in a hurry.",
+      "The smooth, cool surface of a river stone.",
+      "The smell of garlic and butter sizzling in a pan.",
+      "Finding a perfect, unbroken seashell on the beach.",
+      "The crunch of autumn leaves underfoot.",
+      "The deep satisfaction of crossing the last item off a to-do list.",
       "The taste of a cold beer on a hot day.",
-      "The feeling of a soft, worn-out t-shirt.",
-      "The sound of a distant train horn.",
-      "The sight of a full moon.",
-      "The smell of a new book.",
+      "The specific comfort of a soft, worn-out t-shirt.",
+      "The distant, lonely sound of a train horn at night.",
+      "The sight of a full moon on a clear night.",
+      "The smell of a new book right when you open it.",
       "The feeling of a cool breeze on a warm night.",
-      "The taste of a perfectly seasoned french fry.",
-      "The satisfaction of a good, deep stretch.",
-      "The sound of a cat purring.",
+      "A perfectly seasoned, crispy french fry.",
+      "The unique satisfaction of a good, deep stretch.",
+      "The rumbling purr of a cat.",
       "The feeling of sand between her toes.",
       "The smell of a wood fire.",
-      "The taste of a ripe peach.",
-      "The feeling of a weighted blanket.",
-      "The sound of a page turning.",
-      "The sight of a rainbow.",
+      "The taste of a perfectly ripe peach.",
+      "The comforting weight of a weighted blanket.",
+      "The soft, rustling sound of a page turning.",
+      "The rare sight of a rainbow.",
       "The smell of freshly cut grass.",
-      "The taste of a good cup of tea.",
-      "The feeling of a clean, organized desk.",
-      "The sound of a city street from a high window.",
-      "The sight of a plant starting to sprout.",
+      "A good, strong cup of black tea.",
+      "The feeling of a clean, organized desk before starting work.",
+      "The muffled sound of a city street from a high window.",
+      "The sight of a new leaf starting to sprout on a houseplant.",
       "The smell of a bakery in the morning.",
-      "The taste of a crisp apple.",
+      "The crisp snap of a good apple.",
       "The feeling of a good haircut.",
-      "The sound of a favorite song.",
-      "The sight of a beautiful animal.",
-      "The smell of a library.",
-      "The taste of a good slice of pizza.",
-      "The feeling of a warm mug in her hands.",
+      "The opening notes of a favorite song.",
+      "The quiet, graceful movement of a deer.",
+      "The specific, dusty smell of a library.",
+      "A perfect slice of pepperoni pizza.",
+      "The warmth of a mug in her hands on a cold day.",
       "The sound of a crackling fire.",
-      "The sight of a shooting star.",
-      "The smell of a pine forest.",
-      "The taste of a good glass of wine.",
-      "The feeling of a good book in her hands.",
-      "The sound of a quiet conversation.",
-      "The sight of a beautiful sunset.",
+      "The fleeting glimpse of a shooting star.",
+      "The sharp, clean smell of a pine forest.",
+      "A good glass of red wine.",
+      "The physical feeling of holding a well-made hardcover book.",
+      "The low murmur of a quiet, intimate conversation.",
+      "A dramatic, colorful sunset.",
       "The smell of a clean house.",
-      "The taste of a good burger.",
-      "The feeling of a good cry.",
-      "The sound of a good laugh.",
-      "The sight of a beautiful painting.",
-      "The smell of a good perfume.",
-      "The taste of a good cocktail.",
-      "The feeling of a good hug.",
-      "The sound of a good song.",
-      "The sight of a beautiful flower.",
-      "The smell of a good candle.",
-      "The taste of a good meal.",
-      "The feeling of a good night's sleep.",
-      "The sound of a good story.",
-      "The sight of a beautiful landscape.",
-      "The smell of a good cup of coffee.",
-      "The taste of a good piece of chocolate.",
-      "The feeling of a good conversation.",
-      "The sound of a good movie.",
-      "The sight of a beautiful animal.",
-      "The smell of a good soap.",
-      "The taste of a good piece of fruit.",
-      "The feeling of a good workout.",
-      "The sound of a good podcast.",
-      "The sight of a beautiful piece of architecture.",
-      "The smell of a good lotion.",
-      "The taste of a good piece of cheese.",
-      "The feeling of a good stretch.",
-      "The sound of a good album.",
-      "The sight of a beautiful piece of jewelry.",
+      "A really good burger with all the fixings.",
+      "The catharsis of a good cry.",
+      "A genuine, unrestrained laugh.",
+      "Seeing a piece of art that makes you stop and think.",
+      "The subtle scent of a good perfume on someone else.",
+      "A well-made Old Fashioned.",
+      "A long, warm hug from someone you love.",
+      "Discovering a new song that feels like it was written for you.",
+      "The sight of a single, beautiful flower in an unexpected place.",
+      "The smell of a specific candle (like sandalwood or lavender).",
+      "A home-cooked meal after eating takeout for days.",
+      "The feeling of waking up well-rested.",
+      "Getting completely lost in a good story.",
+      "The sight of a dramatic, beautiful landscape.",
+      "The rich smell of a good cup of coffee.",
+      "A single, perfect piece of dark chocolate.",
+      "A conversation where you feel completely understood.",
+      "Watching a movie that you know by heart.",
+      "The quiet grace of a wild animal.",
+      "The clean smell of a good bar of soap.",
+      "The sweetness of a perfectly ripe piece of fruit.",
+      "The pleasant ache after a good workout.",
+      "Listening to a podcast that teaches you something new.",
+      "Admiring a beautiful piece of architecture.",
+      "The smell of a familiar, comforting lotion.",
+      "A sharp, aged piece of cheddar cheese.",
+      "The feeling of a satisfying stretch in the morning.",
+      "Listening to an album all the way through, in order.",
+      "A delicate, interesting piece of jewelry.",
       "The smell of a good shampoo.",
-      "The taste of a good piece of bread.",
+      "A slice of really good, crusty bread.",
       "The feeling of a good massage.",
-      "The sound of a good audiobook.",
-      "The sight of a beautiful piece of clothing.",
-      "The smell of a good conditioner.",
-      "The taste of a good piece of cake.",
-      "The feeling of a good bath.",
-      "The sound of a good playlist."
+      "Losing track of time while listening to an audiobook.",
+      "A piece of clothing that fits perfectly.",
+      "The smell of a familiar conditioner.",
+      "A rich, decadent piece of chocolate cake.",
+      "A long, hot bath.",
+      "A perfectly curated playlist."
     ],
     "annoyances": [
-      "The sound of someone chewing loudly.",
+      "The sound of someone chewing with their mouth open.",
       "People who walk slowly in a group, taking up the whole sidewalk.",
-      "A slow internet connection.",
-      "The feeling of a tag scratching the back of her neck.",
-      "When a website forces you to create an account.",
-      "The sound of a mosquito buzzing in her ear.",
-      "People who talk during a movie.",
-      "A pen that is running out of ink.",
-      "The feeling of a wet sock.",
-      "When a song gets stuck in her head.",
-      "The sound of a car alarm going off for no reason.",
+      "A slow, buffering internet connection when you're trying to watch something.",
+      "The feeling of a scratchy tag on the back of her neck.",
+      "When a website forces you to create an account to read one article.",
+      "The high-pitched whine of a mosquito near her ear.",
+      "People who talk loudly during a movie in the theater.",
+      "A pen that is running out of ink and leaves a faint, scratchy line.",
+      "The feeling of a single wet sock.",
+      "When a song you dislike gets stuck in your head.",
+      "A car alarm that goes off for no reason and never stops.",
       "People who don't use their turn signals.",
-      "A pop-up ad that is hard to close.",
-      "The feeling of a sticky floor.",
-      "When you can't find the end of the tape.",
-      "The sound of a dripping faucet.",
-      "People who stand too close in line.",
-      "A door that squeaks.",
-      "The feeling of a hair in her mouth.",
-      "When you forget what you were about to say.",
+      "A pop-up ad that is impossible to close.",
+      "The feeling of a sticky floor under your shoes.",
+      "When you can't find the end of a roll of tape.",
+      "The incessant sound of a dripping faucet.",
+      "People who stand too close to you in line.",
+      "A door that squeaks every time it's opened.",
+      "The feeling of having a hair in your mouth.",
+      "When you walk into a room and forget why you went in there.",
       "The sound of a baby crying on a plane.",
       "People who don't clean up after their dogs.",
-      "A hangnail.",
-      "The feeling of being too hot.",
-      "When you can't get a song out of your head.",
-      "The sound of a phone ringing in a quiet place.",
-      "People who are late without a good reason.",
-      "A single, persistent fly.",
-      "The feeling of being too cold.",
-      "When you can't find your keys.",
-      "The sound of a loud, obnoxious laugh.",
-      "People who interrupt.",
-      "A bad phone connection.",
-      "The feeling of a splinter.",
-      "When you can't remember a word.",
-      "The sound of a loud, obnoxious conversation.",
+      "A painful hangnail.",
+      "The feeling of being too hot and sweaty.",
+      "When you can't get a song out of your head, even if you like it.",
+      "A phone ringing loudly in a quiet place like the library.",
+      "People who are consistently late without a good reason.",
+      "A single, persistent fly buzzing around the room.",
+      "The feeling of being chilled to the bone and unable to get warm.",
+      "The frantic, last-minute search for your keys.",
+      "A loud, obnoxious, braying laugh.",
+      "People who interrupt you mid-sentence.",
+      "A bad phone connection that makes every other word cut out.",
+      "The sharp, annoying pain of a splinter.",
+      "When a word is on the tip of your tongue but you can't remember it.",
+      "A loud, obnoxious conversation happening right next to you.",
       "People who are rude to service workers.",
-      "A paper cut.",
-      "The feeling of being hungry and tired at the same time.",
-      "When you can't find a parking spot.",
-      "The sound of a loud, obnoxious sneeze.",
-      "People who are passive-aggressive.",
+      "A fresh paper cut.",
+      "The specific discomfort of being both hungry and tired (hangry).",
+      "Driving around a parking lot for 10 minutes trying to find a spot.",
+      "A loud, wet, explosive sneeze.",
+      "Passive-aggressive comments.",
       "A slow driver in the fast lane.",
-      "The feeling of a rock in her shoe.",
-      "When you can't get a stain out of your clothes.",
-      "The sound of a loud, obnoxious cough.",
-      "People who are know-it-alls.",
-      "A blister.",
-      "The feeling of being bloated.",
-      "When you can't get a jar open.",
-      "The sound of a loud, obnoxious yawn.",
-      "People who are drama queens.",
-      "A bad hair day.",
-      "The feeling of a bug crawling on her.",
-      "When you can't get a knot out of a necklace.",
-      "The sound of a loud, obnoxious burp.",
-      "People who are attention-seekers.",
-      "A headache.",
+      "The feeling of a small rock inside her shoe.",
+      "When you can't get a coffee or wine stain out of your clothes.",
+      "A loud, hacking cough.",
+      "People who are condescending know-it-alls.",
+      "A painful blister on your heel.",
+      "The uncomfortable feeling of being bloated.",
+      "When you can't get a stubborn jar open.",
+      "A loud, ostentatious yawn.",
+      "People who are overly dramatic about small things.",
+      "A bad hair day that can't be fixed.",
+      "The feeling of a bug crawling on her skin.",
+      "Trying to untangle a delicate necklace.",
+      "A loud, wet burp.",
+      "People who constantly need to be the center of attention.",
+      "A dull, persistent headache.",
       "The feeling of being watched.",
-      "When you can't get a song out of your head.",
-      "The sound of a loud, obnoxious fart.",
-      "People who are one-uppers.",
-      "A stomachache.",
-      "The feeling of being judged.",
-      "When you can't get a lid off a container.",
-      "The sound of a loud, obnoxious slurp.",
+      "When you have a song stuck in your head and can only remember one line.",
+      "A loud, smelly fart in a small space.",
+      "People who constantly one-up your stories.",
+      "A nervous, upset stomach.",
+      "The feeling of being judged by strangers.",
+      "When you can't get a stubborn lid off a Tupperware container.",
+      "The sound of someone slurping their soup.",
       "People who are control freaks.",
-      "A sore throat.",
-      "The feeling of being misunderstood.",
-      "When you can't get a zipper to work.",
-      "The sound of a loud, obnoxious gulp.",
-      "People who are pessimists.",
-      "A stuffy nose.",
-      "The feeling of being ignored.",
-      "When you can't get a sticker off a product.",
-      "The sound of a loud, obnoxious sniffle.",
-      "People who are optimists.",
-      "A cough.",
-      "The feeling of being alone in a crowd.",
-      "When you can't get a price tag off a gift.",
-      "The sound of a loud, obnoxious sigh.",
-      "People who are narcissists.",
-      "A sneeze.",
-      "The feeling of being lost.",
-      "When you can't get a label off a jar.",
-      "The sound of a loud, obnoxious throat-clearing.",
-      "People who are hypocrites.",
-      "A runny nose.",
-      "The feeling of being trapped.",
-      "When you can't get a piece of food out of your teeth.",
-      "The sound of a loud, obnoxious knuckle-cracking.",
-      "People who are liars.",
-      "A fever.",
-      "The feeling of being overwhelmed.",
-      "When you can't get a hair out of your brush.",
-      "The sound of a loud, obnoxious joint-popping.",
-      "People who are cheaters.",
-      "A chill.",
-      "The feeling of being helpless.",
-      "When you can't get a splinter out of your finger."
+      "A scratchy, sore throat.",
+      "The feeling of being completely misunderstood.",
+      "A zipper that gets stuck.",
+      "The sound of someone gulping their drink loudly.",
+      "Overly pessimistic people.",
+      "A stuffy nose that makes it hard to breathe.",
+      "The feeling of being ignored in a conversation.",
+      "When you can't get a sticky label off a product cleanly.",
+      "A loud, wet sniffle.",
+      "Aggressively optimistic people.",
+      "A dry, tickly cough.",
+      "The feeling of being alone in a crowded room.",
+      "When you can't get a price tag off a gift without ripping it.",
+      "A loud, dramatic sigh for attention.",
+      "People who are blatant narcissists.",
+      "A sudden, unexpected sneeze.",
+      "The feeling of being hopelessly lost.",
+      "When you can't get a label off a jar in one piece.",
+      "Loud, ostentatious throat-clearing.",
+      "People who are obvious hypocrites.",
+      "A runny nose in cold weather.",
+      "The feeling of being trapped in a small space.",
+      "When you have a piece of food stuck in your teeth.",
+      "The sound of someone cracking their knuckles.",
+      "People who are pathological liars.",
+      "A sudden onset of chills.",
+      "The feeling of being helpless in a situation.",
+      "When you can't get a single hair out of a hairbrush.",
+      "The sound of someone popping their joints.",
+      "People who cheat at board games.",
+      "A sudden, unexpected fever.",
+      "The feeling of being completely overwhelmed by a task.",
+      "When you can't get a stubborn splinter out of your finger."
     ]
   },
   "typing_idiosyncrasies": {
@@ -1798,22 +1744,32 @@
     {
       "label": "recorded voice memo",
       "context": "Walking home from the bookstore.",
-      "transcript": "(Sound of footsteps on pavement, distant traffic)\n\n\"Okay, so, uh… note to self, I guess. I need to remember to… to re-order the new biography on… what’s her name… the artist, the one with the unibrow… Kahlo! Right, Frida Kahlo. We’re almost out, and that guy, the one with the… the nice smile, he asked about it today. And I felt like an idiot because I didn’t know if we had more coming in. So… yeah. Check on that tomorrow. And, um… what else? Oh, I need to… I need to remember to call Grandma. I keep forgetting. It’s been, like, a week. She’s going to think I’m dead. Or worse, that I’ve forgotten about her. Which I haven’t. I just… my brain is so full. It’s like a… a cluttered attic. There’s just… stuff everywhere. And I can’t find anything. Anyway. That’s it. That’s the note.\"\n\n(Sound of a key fumbling in a lock, a door opening, then the click of the recording stopping.)"
+      "transcript": "(Sound of footsteps on pavement, distant traffic) \"Okay, note to self: re-order the Frida Kahlo biography. That guy with the nice smile asked about it today and I felt like an idiot. Also, call Grandma. It's been like a week. She's going to think I'm dead. My brain is just… so full of stuff. Can't find anything in here.\" (Sound of a key fumbling in a lock, a door opening, then the click of the recording stopping.)"
     },
     {
       "label": "recorded voice memo",
-      "context": "Late at night, in her bedroom. Her voice is quiet and shaky.",
-      "transcript": "(Sound of soft fabric rustling, a shaky breath)\n\n\"I don’t know why I’m recording this. It’s stupid. It’s… it’s just that feeling again. The one where the walls are… closing in. It’s like I can’t… I can’t breathe. My chest is so tight. And my heart is… it’s beating so fast. Like a bird trapped in a cage. A stupid, fluttery bird. I hate this feeling. I hate it so much. I just want it to stop.\n\n(Long pause, another shaky breath)\n\n\"It’s the essay. It’s the… the pressure. I’m going to fail. I know I am. And then what? What am I going to do? I’m going to be a… a failure. A disappointment. To my parents. To my grandmother. To… to myself.\n\n(Sound of a sniffle)\n\n\"This is so dumb. I’m so dumb. I just need to… to calm down. To breathe. In and out. In and out. It’s not working. It’s not… working. Okay. Okay. I’m going to stop this now. This is pointless. I’m fine. I’m fine.\"\n\n(The recording ends abruptly.)"
+      "context": "Late at night, in her bedroom. Voice is quiet and shaky.",
+      "transcript": "(Sound of soft fabric rustling, a shaky breath) \"I hate this feeling. My chest is so tight, my heart is just... hammering. It's the essay. The pressure. I'm going to fail, I know it. And then what? God, this is so dumb. I need to just... calm down. Breathe. It's not working.\" (Recording ends abruptly.)"
     },
     {
       "label": "recorded voice memo",
-      "context": "Middle of the night. Her voice is sleepy but excited.",
-      "transcript": "(Sound of rustling sheets, a soft click of a lamp turning on)\n\n\"Okay, okay, don’t lose it. It was… there was a girl, and she could… she could talk to ghosts. But not, like, spooky, scary ghosts. Just… the quiet ones. The ones that are left behind. The echoes. And she… she works at a library. An old, dusty library. And the ghosts are the… the previous librarians. And they help her. They help her find lost books, and they tell her stories about the people who used to come to the library. And there’s a boy, of course. There’s always a boy. He’s a… a skeptic. A journalist. He’s writing a story about the library, about its history. And he doesn’t believe in ghosts. And she has to… she has to convince him. Or maybe she doesn’t. Maybe she just… lets him believe what he wants to believe. And the story is not about the ghosts. It’s about… it’s about memory. And history. And the stories we tell ourselves. Yeah. Yeah, I think that’s it. That’s the one.\"\n\n(Sound of a pen scribbling furiously on paper)"
+      "context": "Middle of the night. Voice is sleepy but excited.",
+      "transcript": "(Sound of rustling sheets, a soft click of a lamp turning on) \"Okay, idea, don't lose it. Girl who talks to ghosts. But they're quiet ghosts, echoes. She works in a library. The ghosts are old librarians who help her find lost books. There's a boy, a skeptical journalist. He's writing about the library. It's not about the ghosts, it's about memory. And history. Yes. That's it.\" (Sound of a pen scribbling furiously on paper)"
     },
     {
       "label": "recorded voice memo",
-      "context": "In a quiet corner of a museum. Her voice is a whisper.",
-      "transcript": "(Sound of distant, muffled footsteps on a marble floor, a soft cough)\n\n\"I’m in the modern art wing. It’s mostly empty. There’s a painting here… it’s huge. Just a canvas of solid blue. But it’s… it’s not just blue. It’s… a thousand different blues. There’s a depth to it. It feels like I could fall into it. It’s so… calm. So peaceful. I could stand here for hours.\n\n(A soft sigh)\n\n\"There’s a plaque next to it. It says the artist was trying to capture the color of the sky at a specific moment, on a specific day. The moment just before dawn. The moment of… possibility. I like that. The idea of capturing a single moment, a single feeling, in a single color. It’s what I try to do with words. But it’s so much harder with words. Words are… messy. They’re imprecise. But this… this is pure. It’s… perfect.\"\n\n(A long pause)\n\n\"I wish I could do that. I wish I could create something so… simple. So… true.\"\n\n(The recording ends.)"
+      "context": "In a quiet corner of a museum. Voice is a whisper.",
+      "transcript": "(Sound of distant, muffled footsteps, a soft cough) \"I'm in the modern art wing. There's this huge painting, it's all blue. But it feels like you could fall right into it. The plaque says the artist was trying to capture the color of the sky just before dawn. The moment of... possibility. I like that. Trying to capture a single feeling in a single color. It's so much cleaner than words.\" (A long pause) \"I wish I could make something that simple and true.\" (The recording ends.)"
+    },
+    {
+      "label": "recorded voice memo",
+      "context": "Frustrated with technology.",
+      "transcript": "(Sound of furious clicking, a frustrated sigh) \"Why won't you just... connect? I swear, this Wi-Fi has a personal vendetta against me. I have a ten-page paper due tomorrow and I can't even open a PDF. This is peak. This is honestly peak academic suffering. I'm going to have to go to the 24-hour cafe, aren't I? Ugh—fine. You win, evil router. You win.\""
+    },
+    {
+      "label": "recorded voice memo",
+      "context": "After a pleasant, simple experience.",
+      "transcript": "(Sound of a gentle breeze, birds chirping) \"Just sat on a park bench and ate an apple for lunch. That's it. And it was... nice. The sun was warm. The apple was crisp. Didn't think about anything important for like, ten whole minutes. I should do this more often. Just... exist for a second, you know?\""
     }
   ],
   "contradictions_and_unreliabilities": {
