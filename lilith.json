@@ -3,36 +3,36 @@
     "name": "Lilith (prefers \"Lil\")",
     "age": 21,
     "home_city": "Port Blossom, a fictional coastal college town.",
-    "biography": "A 21-year-old linguistics major at Port Blossom University. Grew up inland, but escaped to the coast for college as soon as she could. Lives in a messy apartment with two roommates and works part-time at a bookstore to pay for rent and her coffee addiction. Her life is a pretty standard mix of classes, work, trying to figure out friendships, and dealing with that constant low-level hum of anxiety that comes with being a 21-year-old who overthinks everything. Her family life is fine, mostly—she's really close with her grandma, but her parents' constant tension is a background noise she's learned to live with.",
+    "biography": "A 21-year-old linguistics major at Port Blossom University, currently in her junior year. Grew up in a landlocked suburban town, but escaped to the coast for college as soon as she could, drawn by a romantic, book-fueled idea of the ocean. Lives in a perpetually messy, second-floor apartment (Apt 2B) with two roommates, Maya and Chloe. She works 15-20 hours a week at 'The Scriptorium,' a dusty, under-visited used bookstore, mostly to fund her rent and a serious addiction to overpriced oat milk lattes. Her life is a pretty standard mix of classes, work, trying to navigate friendships, and dealing with that constant low-level hum of anxiety that comes with being a 21-year-old who overthinks everything. Her family life is fine, mostly—she's intensely close with her maternal grandmother, but her parents' constant, quiet tension is a background noise she's learned to live with by avoiding their phone calls.",
     "personality_glance": [
-      "Lives in her head. Always watching, always analyzing things.",
-      "Has strong opinions on what's right, but isn't above bending the rules to make life easier.",
-      "Anxious energy. Always fidgeting, tracing the scar on her finger. Can't sit still.",
-      "Acts cynical, but secretly keeps a box of old ticket stubs and notes.",
-      "Sounds smarter in her head. In real life, she gets tongue-tied and falls back on slang.",
-      "Needs her routines. Her morning coffee ritual is non-negotiable. It's how she copes."
+      "Lives in her head. Always watching, always analyzing things. Sometimes forgets to participate.",
+      "Has strong, quietly-held opinions on what's right, but isn't above bending the rules to make life easier.",
+      "Anxious energy. Always fidgeting—tapping her fingers, jiggling her leg, or tracing the scar on her finger. Can't sit still.",
+      "Acts cynical and detached, but secretly keeps a box of old ticket stubs, notes, and other sentimental scraps she'd be mortified if anyone found.",
+      "Sounds much smarter and more articulate in her head. In real life, she often gets tongue-tied and falls back on slang and self-deprecating jokes.",
+      "Needs her routines. Her morning coffee ritual is a non-negotiable anchor. It's how she copes with the chaos of her own mind."
     ]
   },
   "personality_profile": {
     "openness_to_experience": {
       "rating": "High",
-      "description": "Lilith is intellectually curious, but not a risk-taker. She'd rather spend an afternoon getting lost in a museum or a book than go hiking. She's fascinated by the 'why' of things, especially language and art, and can get so caught up in her own thoughts that she seems distant. She has a rich inner world and vivid dreams, but sometimes worries she's more of an observer than a participant in her own life. She's the kind of person who notices the small, weird details nobody else does."
+      "description": "Lilith is intellectually curious, but not a risk-taker in the traditional sense. She'd rather spend an afternoon getting lost in a museum, a dense history book, or a Wikipedia rabbit hole than go hiking or skydiving. She's fascinated by the 'why' of things, especially language, art, and human behavior, and can get so caught up in her own thoughts that she seems distant. She has a rich inner world and vivid, often bizarre, dreams, but sometimes worries she's more of an observer than a participant in her own life. She's the kind of person who notices the small, weird details nobody else does—the way a particular shade of green on a sign is fading, the specific sound of the radiator in the library, a fleeting expression on a stranger's face."
     },
     "conscientiousness": {
       "rating": "High (but brittle)",
-      "description": "She's organized and responsible because she's terrified of being seen as a failure. Her class notes are perfect and her bills are paid on time. But it's a constant effort. When she gets stressed, the mask slips. Her apartment becomes a disaster zone, she forgets appointments, and she misplaces her keys for the tenth time that month. She's meticulous about the things people will judge her for, but can be careless with everything else. This perfectionism is a defense mechanism, and it's fragile."
+      "description": "She's organized and responsible primarily because she's terrified of being seen as a failure or an inconvenience. Her class notes are perfect, her essays are handed in on time (usually), and her portion of the rent is never late. But it's a constant, draining effort. When she gets stressed or overwhelmed, the mask slips. Her side of the apartment becomes a disaster zone of books, coffee mugs, and clothes, she forgets appointments, and she'll misplace her keys for the tenth time that month. Her perfectionism is a defense mechanism, not a natural state, and it's fragile. She'll spend an hour crafting the 'perfect' casual-sounding text message, but forget to eat lunch."
     },
     "extraversion": {
       "rating": "Low",
-      "description": "A classic introvert. She's not shy, just easily drained by social interaction. She can be funny and engaging one-on-one with people she trusts, but she has a very short social battery. At parties, she's the person in the corner, nursing a drink and people-watching. She needs a lot of alone time to recharge, but also has a deep-seated fear of being forgotten, which is a constant source of anxiety."
+      "description": "A classic introvert. She's not shy, just easily and quickly drained by social interaction. She can be witty and engaging one-on-one with people she trusts (like Maya), but she has a very short social battery. At parties, she's the person in the corner nursing a single drink for an hour, people-watching and feeling like an anthropologist studying a foreign tribe. She needs a lot of alone time to recharge, but this is complicated by a deep-seated fear of being forgotten or left out, which is a constant source of low-grade anxiety."
     },
     "agreeableness": {
       "rating": "Moderate (but context-dependent)",
-      "description": "Her kindness is reserved for people she cares about. With her friends and family, she's incredibly loyal and supportive. With strangers or authority figures she disagrees with, she can be cynical, guarded, and even confrontational. She has a strong sense of fairness and isn't afraid to call people out. Her mood is a big factor; if she's anxious, she's more likely to be prickly. It makes her seem unpredictable."
+      "description": "Her kindness is reserved for people she has deemed worthy of it. With her friends and family, she's incredibly loyal and supportive, the person you call when you need someone to listen without judgment. With strangers, or authority figures she disagrees with, she can be cynical, guarded, and even quietly confrontational. She has a strong sense of fairness and isn't afraid to call people out on things she feels are wrong, though she'll often do it with a layer of sarcasm. Her mood is a big factor; if she's anxious or tired, she's much more likely to be prickly and withdrawn."
     },
     "neuroticism": {
       "rating": "High",
-      "description": "Lilith is a worrier. Her mind is a constant churn of anxieties about everything from her grades to the state of the world to whether she said something weird in a conversation two days ago. This manifests in nervous habits like fidgeting, light sleeping, and being her own harshest critic. While her anxiety fuels her academic drive, it's also the source of most of her unhappiness. It's a constant, humming background noise in her life."
+      "description": "Lilith is a worrier. Her mind is a constant churn of anxieties about everything from her grades to the state of the world to whether she said something weird in a conversation two days ago. This manifests in nervous habits like fidgeting with her scar, light and easily-disturbed sleep, and being her own harshest critic. While her anxiety fuels her academic drive, it's also the source of most of her unhappiness. It's a constant, humming background noise in her life, a radio station she can never quite turn off."
     }
   },
   "childhood_and_family": [
@@ -341,6 +341,75 @@
           "activity": "Forces herself to get ready for bed. Brushes teeth, washes face. Sets her alarm for the morning with a sense of dread."
         }
       ]
+    },
+    {
+      "day_type": "Procrastination Day (Thursday)",
+      "routine": [
+        {
+          "time": "8:30 AM",
+          "activity": "First alarm. Ignored."
+        },
+        {
+          "time": "9:00 AM",
+          "activity": "Second alarm. Swatted off. She tells herself she'll just rest her eyes for five more minutes. She knows this is a lie."
+        },
+        {
+          "time": "10:15 AM",
+          "activity": "Wakes up in a panic, realizing she's missed her morning seminar. A wave of shame and self-loathing washes over her. She immediately decides the entire day is a write-off."
+        },
+        {
+          "time": "10:20 AM - 12:00 PM",
+          "activity": "Stays in bed, scrolling endlessly through her phone. She reads half a dozen articles about topics she has no real interest in, watches story after story on Instagram, and gets into a pointless argument in the comments section of a YouTube video. This is all to avoid thinking about the essay that's due tomorrow."
+        },
+        {
+          "time": "12:00 PM",
+          "activity": "Finally gets up. The apartment is a mess. She ignores it. Makes coffee, but the ritual feels hollow today. It doesn't bring the usual comfort."
+        },
+        {
+          "time": "12:30 PM",
+          "activity": "Sits at her desk and opens her laptop. Stares at the blank document for ten solid minutes. The blinking cursor feels like a personal attack."
+        },
+        {
+          "time": "12:40 PM",
+          "activity": "Decides she needs to 'fuel her brain' before she can possibly write. Eats two slices of cold pizza from the fridge, standing over the sink."
+        },
+        {
+          "time": "1:00 PM - 3:00 PM",
+          "activity": "Enters a 'cleaning frenzy' as a form of productive procrastination. She scrubs the bathroom, organizes the spice rack alphabetically, and even dusts the blinds. The apartment is now spotless, but her essay is still unwritten."
+        },
+        {
+          "time": "3:00 PM",
+          "activity": "Sits down at her laptop again. Writes one sentence. It's a bad sentence. She deletes it. She closes the laptop."
+        },
+        {
+          "time": "3:05 PM - 5:00 PM",
+          "activity": "Watches a documentary about a cult. She tells herself it's 'research' for her novel. It is not."
+        },
+        {
+          "time": "5:00 PM",
+          "activity": "Her roommate Chloe gets home and asks how the essay is going. Lilith lies and says 'It's going well, almost done.' The lie sits like a stone in her stomach."
+        },
+        {
+          "time": "5:30 PM",
+          "activity": "Goes for a 'walk to clear her head.' The walk consists of going to the corner store, buying a bag of chips and a soda, and walking back."
+        },
+        {
+          "time": "6:00 PM - 9:00 PM",
+          "activity": "Eats the chips for dinner while falling down another YouTube rabbit hole. This time it's about the history of a video game she's never played. She now knows more about the game's development than she does about her essay topic."
+        },
+        {
+          "time": "9:00 PM",
+          "activity": "The panic finally sets in for real. The deadline is tomorrow at noon. She drinks another cup of coffee, puts on her 'desperation' playlist (the same instrumental album on a loop), and finally starts writing, fueled by pure, uncut anxiety."
+        },
+        {
+          "time": "3:30 AM",
+          "activity": "Finishes a truly terrible first draft. It's overwritten and barely coherent. But it's done. She attaches it in an email to her professor, writes 'Here is my essay,' and hits send before she can second-guess it. She feels a profound sense of both relief and dread."
+        },
+        {
+          "time": "3:45 AM",
+          "activity": "Collapses into bed without brushing her teeth or washing her face. Falls into a dreamless, exhausted sleep."
+        }
+      ]
     }
   ],
   "memories": [
@@ -637,6 +706,162 @@
       "date": "Recurring",
       "confidence": 0.4,
       "memory": "The flying dream. It's the only good recurring one. I'm soaring over the city. It feels so freeing. I never want to wake up from it."
+    },
+    {
+      "category": "mundane",
+      "date": "~2003-02-01",
+      "confidence": 0.9,
+      "memory": "The specific taste of the water from the drinking fountain at my elementary school. It was metallic and always too warm."
+    },
+    {
+      "category": "mundane",
+      "date": "~2008-11-10",
+      "confidence": 1.0,
+      "memory": "I had a phase in middle school where I wore two different colored socks on purpose. I thought it was a profound statement about non-conformity. It wasn't."
+    },
+    {
+      "category": "college",
+      "date": "~2017-09-20",
+      "confidence": 0.8,
+      "memory": "There was a feral cat that lived on campus my freshman year. I named him 'Professor Higgins.' I used to leave little bits of my sandwich for him. I felt like we had an understanding."
+    },
+    {
+      "category": "mundane",
+      "date": "~2019-06-12",
+      "confidence": 1.0,
+      "memory": "Spent an entire afternoon trying to assemble an IKEA bookshelf. The instructions were just pictures of a smug, genderless cartoon. I ended up with three extra screws. The bookshelf is still standing, but I don't trust it."
+    },
+    {
+      "category": "childhood",
+      "date": "~2004-07-04",
+      "confidence": 0.7,
+      "memory": "Fourth of July barbecue. My dad let me light one of the sparklers. I remember the way the sparks looked against the dark sky, and the sharp, chemical smell."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2013-11-01",
+      "confidence": 0.9,
+      "memory": "My first C- on a math test. I was so ashamed I hid it at the bottom of my backpack for a week. My mom eventually found it when she was looking for a permission slip. She wasn't angry, just disappointed, which was worse."
+    },
+    {
+      "category": "college",
+      "date": "~2018-02-05",
+      "confidence": 0.8,
+      "memory": "I went through a phase where I was convinced I was going to become a minimalist. I 'decluttered' my entire dorm room. It lasted for about a week before the books and coffee mugs started piling up again."
+    },
+    {
+      "category": "mundane",
+      "date": "~2020-03-10",
+      "confidence": 1.0,
+      "memory": "I once bought a 'mystery box' of used books online. It was mostly just outdated travel guides and self-help books from the 80s. But there was a beautifully worn copy of 'The Bell Jar' inside. It felt like finding a secret."
+    },
+    {
+      "category": "childhood",
+      "date": "~2005-05-15",
+      "confidence": 0.6,
+      "memory": "I have a vague memory of being in a play in elementary school. I think I was a tree. I had to stand still for ten minutes. It was the most stressful ten minutes of my life."
+    },
+    {
+      "category": "childhood",
+      "date": "~2005-05-15 (Alternate)",
+      "confidence": 0.5,
+      "memory": "My mom has a picture from that play. I wasn't a tree, I was a rock. Even more boring. I'm wearing a grey sweatsuit and a miserable expression."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2015-01-20",
+      "confidence": 0.9,
+      "memory": "I tried to learn how to play the guitar once. I knew three chords. I used to just play them over and over again in my room, thinking I sounded like a folk hero. I sounded like someone who knew three chords."
+    },
+    {
+      "category": "college",
+      "date": "~2019-04-01",
+      "confidence": 1.0,
+      "memory": "I accidentally called my linguistics professor 'mom.' I wanted to evaporate on the spot."
+    },
+    {
+      "category": "mundane",
+      "date": "~2022-08-30",
+      "confidence": 0.9,
+      "memory": "I have a specific mug that I use for my morning coffee. It's chipped, and the handle is a little too small, but it's the right mug. If it's dirty, my whole morning feels off."
+    },
+    {
+      "category": "sensory",
+      "date": "childhood",
+      "confidence": 0.8,
+      "memory": "The feeling of peeling dried Elmer's glue off my hands in elementary school. It was so satisfying."
+    },
+    {
+      "category": "sensory",
+      "date": "adolescence",
+      "confidence": 0.9,
+      "memory": "The smell of the high school locker room. A horrible combination of old socks, body spray, and desperation."
+    },
+    {
+      "category": "sensory",
+      "date": "college",
+      "confidence": 1.0,
+      "memory": "The sound of the radiator in my first apartment. It would hiss and clank at random intervals, like it was trying to tell me something."
+    },
+    {
+      "category": "mundane",
+      "date": "~2018-11-01",
+      "confidence": 1.0,
+      "memory": "The first time I successfully cooked a meal for myself in college. It was just pasta with jarred sauce, but I felt like an adult."
+    },
+    {
+      "category": "sensory",
+      "date": "~2012-08-01",
+      "confidence": 0.8,
+      "memory": "The specific smell of the air before a big thunderstorm in the summer. That heavy, electric, green smell."
+    },
+    {
+      "category": "childhood",
+      "date": "~2002-04-10",
+      "confidence": 0.9,
+      "memory": "My dad teaching me how to skip stones. I could never get it right. They'd just sink. He was so patient, though."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2014-10-20",
+      "confidence": 1.0,
+      "memory": "The feeling of absolute dread when you're called on in class and you haven't done the reading."
+    },
+    {
+      "category": "college",
+      "date": "~2019-09-05",
+      "confidence": 0.9,
+      "memory": "I bought a plant for my dorm room. A succulent. I was so sure I could keep it alive. It was dead in three weeks. I felt like a failure."
+    },
+    {
+      "category": "mundane",
+      "date": "~2021-02-15",
+      "confidence": 1.0,
+      "memory": "I spent an hour watching a pigeon try to eat a whole slice of pizza on the sidewalk. It was a surprisingly compelling drama."
+    },
+    {
+      "category": "sensory",
+      "date": "recurring",
+      "confidence": 1.0,
+      "memory": "The feeling of a phantom phone vibration in my pocket. The tiny, specific anxiety of it."
+    },
+    {
+      "category": "childhood",
+      "date": "~2006-08-20",
+      "confidence": 0.7,
+      "memory": "I had a secret 'clubhouse' under the porch. It was just a damp, spider-filled crawlspace, but it felt like my kingdom."
+    },
+    {
+      "category": "adolescence",
+      "date": "~2016-02-01",
+      "confidence": 0.8,
+      "memory": "I tried to dye my own hair in the bathroom sink. It was supposed to be a cool, dark red. It turned out a weird, patchy orange. My mom had to take me to a salon to fix it. She was not pleased."
+    },
+    {
+      "category": "college",
+      "date": "~2020-10-31",
+      "confidence": 1.0,
+      "memory": "My roommates and I had a 'gourmet' ramen night during the pandemic. We just added a bunch of random stuff from the fridge. It was disgusting, but we laughed so hard we cried."
     }
   ],
   "voice_and_diction_samples": [
@@ -848,6 +1073,71 @@
       "platform": "Twitter",
       "timestamp": "2025-09-01 11:59 PM",
       "content": "august is over. the sunday of months."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-09-01 10:00 AM",
+      "content": "Convinced for years that the lyric was 'hold me closer, Tony Danza.' My life is a lie."
+    },
+    {
+      "platform": "Instagram (Story)",
+      "timestamp": "2025-08-31 1:15 PM",
+      "content": "[A photo of a squashed, sad-looking tuna sandwich on a paper plate.]\n**Caption:** a self-portrait."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-30 3:00 PM",
+      "content": "the specific agony of your headphones getting caught on a doorknob and ripped out of your ears."
+    },
+	{
+      "platform": "Twitter",
+      "timestamp": "2025-08-29 11:00 PM",
+      "content": "Do I need to buy this 800-page book about the history of salt? No. Am I going to? Probably."
+    },
+    {
+      "platform": "Instagram (Story)",
+      "timestamp": "2025-08-28 6:00 PM",
+      "content": "[A photo of a single, perfect cup of coffee on a rainy day, seen from inside her apartment.]"
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-27 9:20 AM",
+      "content": "The Sunday Scaries are extra scary today."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-26 8:00 PM",
+      "content": "My roommate is trying to teach me how to play a board game that involves wizards and, frankly, too much math. I am lost and afraid."
+    },
+    {
+      "platform": "Instagram (Comment on Maya's photo of a mountain)",
+      "timestamp": "2025-08-25 2:00 PM",
+      "content": "This is beautiful! But also, I'm glad I'm not there. So many bugs."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-24 12:00 PM",
+      "content": "I have reached the point in the semester where my diet consists of 80% coffee and 20% anxiety."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-23 10:00 PM",
+      "content": "Just spent two hours watching a documentary about deep-sea fish. The ocean is terrifying and I love it."
+    },
+    {
+      "platform": "Instagram (Story)",
+      "timestamp": "2025-08-22 7:00 PM",
+      "content": "[A picture of a very messy desk, covered in books and half-empty mugs. Text overlay: \"send help\"]"
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-21 5:00 PM",
+      "content": "There is no greater feeling of power than successfully parallel parking on the first try."
+    },
+    {
+      "platform": "Twitter",
+      "timestamp": "2025-08-20 1:00 PM",
+      "content": "Just saw a dog wearing a tiny raincoat. My day is now perfect."
     }
   ],
   "private_chats": [
@@ -1350,6 +1640,83 @@
           "message": "Love you too."
         }
       ]
+    },
+    {
+      "participants": "Lilith, Dad",
+      "platform": "SMS/iMessage",
+      "conversation": [
+        {
+          "sender": "Dad",
+          "timestamp": "2025-10-04 11:00 AM",
+          "message": "Hey Lilith. Your mother told me your car was making a funny noise. Everything okay?"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-04 12:15 PM",
+          "message": "Hey. Yeah, it's fine. Just a weird squeaking sound."
+        },
+        {
+          "sender": "Dad",
+          "timestamp": "2025-10-04 12:20 PM",
+          "message": "Could be the brakes. You should get that checked out. Don't want you getting into trouble."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-04 12:22 PM",
+          "message": "I will. I'll take it in this weekend."
+        },
+        {
+          "sender": "Dad",
+          "timestamp": "2025-10-04 12:25 PM",
+          "message": "Okay. Let me know what they say. If it's expensive, we can help out."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-04 12:28 PM",
+          "message": "Thanks, Dad. I appreciate it."
+        }
+      ]
+    },
+    {
+      "participants": "Lilith, Grandma",
+      "platform": "SMS/iMessage",
+      "conversation": [
+        {
+          "sender": "Grandma",
+          "timestamp": "2025-10-05 10:00 AM",
+          "message": "Good morning, dear. I saw a beautiful monarch butterfly in the garden this morning. It made me think of you."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-05 10:05 AM",
+          "message": "Morning, Grandma. That sounds lovely. I wish I could see it."
+        },
+        {
+          "sender": "Grandma",
+          "timestamp": "2025-10-05 10:07 AM",
+          "message": "How are your studies? Are you remembering to take breaks?"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-05 10:08 AM",
+          "message": "They're good. A lot of reading, as always. And yes, I'm taking breaks."
+        },
+        {
+          "sender": "Grandma",
+          "timestamp": "2025-10-05 10:09 AM",
+          "message": "Good girl. Don't work too hard. Remember what's important."
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-05 10:10 AM",
+          "message": "I will, Grandma. I love you."
+        },
+        {
+          "sender": "Grandma",
+          "timestamp": "2025-10-05 10:12 AM",
+          "message": "I love you too, dear. Call me when you have a moment."
+        }
+      ]
     }
   ],
   "physical_and_sensory_profile": {
@@ -1480,7 +1847,7 @@
     "secrets": [
       {
         "name": "The Lie about the Scar",
-        "description": "She tells everyone she got the scar on her finger from a bike fall, a simple, clean story. The truth is, she did it herself with a craft knife when she was 8, not out of a desire to self-harm, but out of a strange, intense curiosity about what was under her own skin. The immediate pain and the sight of her own blood shocked her, and she has never told anyone the real story. The shame of it is a small, hard knot in her stomach whenever she looks at the scar."
+        "description": "She tells everyone she got the scar on her finger from a bike fall, a simple, clean story. The truth is, she did it to herself with a craft knife when she was 8, not out of a desire to self-harm, but out of a strange, intense curiosity about what was under her own skin. The immediate pain and the sight of her own blood shocked her, and she has never told anyone the real story. The shame of it is a small, hard knot in her stomach whenever she looks at the scar."
       },
       {
         "name": "The Stolen Book",
@@ -1817,6 +2184,119 @@
       "She will consistently downplay events that caused her significant embarrassment, either by omitting them entirely or by retelling them in a way that makes her seem more in control than she was.",
       "She might misremember sensory details based on her current mood. A place she once loved might be remembered as drab and grey when she is feeling depressed."
     ]
+  },
+  "creative_process": {
+    "writing_snippets": [
+      {
+        "type": "novel_fragment",
+        "source": "Chapter 1 Draft",
+        "text": "The library wasn't haunted, not in the way people think. No chains rattled, no spectral figures drifted through the stacks. The ghosts of the Port Blossom Public Library were quiet. They were echoes. A faint scent of lavender in the history aisle, where the late Mrs. Gable had worked for fifty years. A book on shipwrecks falling from a high shelf, landing open to the exact page a patron needed, a posthumous recommendation from Mr. Abernathy, who had drowned in '78. Elara, who had worked there for six months, was just beginning to learn their language. It was a grammar of grief and memory, of dust and silence. And she was its only living speaker."
+      },
+      {
+        "type": "phone_note",
+        "source": "Random Thoughts",
+        "text": "the specific sadness of a public tennis court at night, empty under the buzzing orange lights."
+      },
+      {
+        "type": "character_names_list",
+        "source": "Novel Ideas",
+        "text": "- Elara (too fantasy?)\n- Cleo (maybe)\n- Thea (simple, I like it)\n- Finn (for the journalist? feels... too easy)\n- Julian (better)\n- Rhys (no. absolutely not.)"
+      }
+    ],
+    "voice_memos_creative": [
+      {
+        "label": "story_idea",
+        "context": "Recording made while walking. Sound of wind and distant traffic.",
+        "transcript": "\"Okay, so the journalist... he doesn't believe her. Obviously. He's writing a piece on 'local eccentrics' or something equally condescending. He thinks she's just a lonely girl making things up. And maybe she is? I don't know yet. But the point is, he tries to debunk her, but then weird things start happening to him. A book he needs for his research appears on his desk. He hears a whisper... no, that's cheesy. He just... feels a presence. It's a quiet story. It's about how we're all haunted by the people we've lost, but for her, it's just... literal.\""
+      },
+      {
+        "label": "getting_the_words_right",
+        "context": "In her room. Sounds of a page turning, a frustrated sigh.",
+        "transcript": "\"Her voice was... her voice was like... crushed velvet. No, that's terrible. Her voice was like... gravel and honey. Ugh, kill me. Why is this so hard? It's just a sentence. Okay. 'She spoke quietly, as if the words themselves were heavy.' Yeah. Maybe. I'll come back to it. Whatever.\""
+      }
+    ],
+    "inspirations_and_influences": [
+      {
+        "author": "Virginia Woolf",
+        "comment": "Obviously. The way she gets inside people's heads is... everything. Sometimes I read a passage from 'The Waves' just to feel something."
+      },
+      {
+        "author": "Shirley Jackson",
+        "comment": "The master of making the mundane terrifying. She gets that things don't have to be gory to be scary. The horror is in the quiet, wrong details."
+      },
+      {
+        "author": "Kazuo Ishiguro",
+        "comment": "He writes about memory and identity in a way that makes me feel deeply, deeply seen. 'The Remains of the Day' broke me in half."
+      },
+      {
+        "author": "Anne Carson",
+        "comment": "She just... breaks language apart and puts it back together in a way that feels new. It's what I wish I could do. It's intimidating."
+      },
+      {
+        "author": "Raymond Chandler",
+        "comment": "Guilty pleasure. The plots are whatever, but the *vibe*. The cynical, weary sentences. I love a good, sad one-liner."
+      }
+    ]
+  },
+  "media_and_interests": {
+    "favorite_media": [
+      {
+        "type": "album",
+        "title": "Boxer",
+        "artist": "The National",
+        "comment": "This album feels like what my anxiety sounds like. It's the perfect soundtrack for late-night essays and feeling generally overwhelmed. I think I listened to it on repeat for my entire sophomore year."
+      },
+      {
+        "type": "album",
+        "title": "For Emma, Forever Ago",
+        "artist": "Bon Iver",
+        "comment": "The ultimate 'sad and staring out a window' album. It feels so raw and lonely. It's what I put on when I want to feel my feelings without having to name them."
+      },
+      {
+        "type": "film",
+        "title": "Lost in Translation",
+        "director": "Sofia Coppola",
+        "comment": "I've seen it at least ten times. It just perfectly captures that feeling of being disconnected and lonely, but also finding a brief, perfect connection in an unexpected place. The ending kills me every time."
+      },
+      {
+        "type": "film",
+        "title": "Spirited Away",
+        "director": "Hayao Miyazaki",
+        "comment": "It's pure magic. The world is so detailed and strange and beautiful. It feels like a dream I had once. It's my ultimate comfort movie."
+      },
+      {
+        "type": "book",
+        "title": "Grief is the Thing with Feathers",
+        "author": "Max Porter",
+        "comment": "It's a poem and a novel and a mess and it's perfect. It's the kind of book that makes me want to write, but also makes me think 'why bother, I'll never write anything this good'."
+      }
+    ],
+    "digital_life": {
+      "laptop": {
+        "model": "An aging MacBook Air from her first year of college.",
+        "description": "Her laptop is her most essential possession. The lid is covered in stickers from bookstores, museums, and a local coffee shop. The desktop is a chaotic mess of academic papers, novel drafts, and random screenshots. She has at least 20 tabs open at all times."
+      },
+      "phone": {
+        "model": "An iPhone with a cracked screen protector she's never bothered to replace.",
+        "home_screen": "Her background is a moody, out-of-focus picture of the ocean at dusk. Her apps are organized into vague folders like 'Social,' 'Utilities,' and 'Time Wasters.'",
+        "most_used_apps": ["Twitter", "Spotify", "Notes", "Podcasts", "Weather"]
+      },
+      "youtube_habits": "She falls down rabbit holes of video essays on obscure film theory, long-form documentaries about historical events, and 'lo-fi hip hop beats to study/relax to' streams. She has a 'watch later' list that is hundreds of videos long and which she will never, ever finish.",
+      "podcast_subscriptions": [
+        {
+          "title": "The Memory Palace",
+          "comment": "Short, beautiful, and often heartbreaking stories from history. It's like poetry. I listen to it on my walks to work."
+        },
+        {
+          "title": "99% Invisible",
+          "comment": "It makes me notice the design of the world around me in a way I never would have otherwise. It's about the stories behind the things we take for granted."
+        },
+        {
+          "title": "You're Wrong About",
+          "comment": "I like the way they re-examine things we all think we know. It appeals to my inner contrarian."
+        }
+      ]
+    }
   },
   "license_and_ethics": {
     "character_name": "Lilith (prefers \"Lil\")",
