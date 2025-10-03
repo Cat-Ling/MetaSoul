@@ -234,52 +234,67 @@
         {
           "sender": "Chloe",
           "timestamp": "2025-10-02 4:30 PM",
-          "message": "who left the empty milk carton in the fridge???? i am THIS close to a complete breakdown"
+          "message": "okay who left the empty milk carton in the fridge. i am going to lose my mind"
+        },
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:30 PM",
+          "message": "my coffee is ruined"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-10-02 4:31 PM",
-          "message": "wasnt me, i had the last of it this morning and threw it out"
+          "message": "wasnt me i finished it yesterday and tossed it"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-02 4:32 PM",
-          "message": "oops. my bad. i was running late for class and forgot."
+          "message": "oh god"
+        },
+        {
+          "sender": "Lilith",
+          "timestamp": "2025-10-02 4:32 PM",
+          "message": "that was me. sorry. brain absolutely empty, was late for class"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-10-02 4:32 PM",
-          "message": "LILITH. this is a cardinal sin."
+          "message": "LILITH"
+        },
+        {
+          "sender": "Chloe",
+          "timestamp": "2025-10-02 4:33 PM",
+          "message": "this is a federal crime"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-02 4:33 PM",
-          "message": "i know, im sorry! i'll pick up more on my way home from work."
+          "message": "i know im the worst!!! i'll grab more on my way back from work"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-10-02 4:34 PM",
-          "message": "Get the oat milk. The good kind."
+          "message": "get the good oatly"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-10-02 4:34 PM",
-          "message": "And get those little chocolate chip cookies you like."
+          "message": "and since you're already atoning for your sins you should get us those little chocolate chip cookies"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-02 4:35 PM",
-          "message": "i am not being emotionally blackmailed into buying cookies"
+          "message": "i'm not being emotionally blackmailed with cookies"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-10-02 4:36 PM",
-          "message": "is it blackmail or is it a friendly suggestion that would make up for your transgressions?"
+          "message": "it's not blackmail it's a reparations tax"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-02 4:37 PM",
-          "message": "ugh—fine. but you're paying me back."
+          "message": "ugh fine. but u guys are venmoing me"
         },
         {
           "sender": "Maya",
@@ -289,7 +304,7 @@
         {
           "sender": "Chloe",
           "timestamp": "2025-10-02 4:38 PM",
-          "message": "no promises"
+          "message": "we'll see"
         }
       ]
     },
@@ -866,78 +881,78 @@
   ],
   "voice_and_diction_samples": [
     {
-      "context": "Texting with a close friend",
-      "sample": "**Friend:** you coming to movie night?\n**Lilith:** maybe, depends if i can get this stupid essay done\n**Lilith:** dr davis is brutal\n**Friend:** ughhh him\n**Lilith:** fr\n**Lilith:** dont wait up for me but if you start the good one save me a seat"
+      "context": "Texting with a close friend (Maya)",
+      "sample": "**Maya:** movie night @ ours, u coming?\n**Lilith:** god i want to\n**Lilith:** but this davis essay is kicking my ass\n**Maya:** ughhh him\n**Lilith:** fr\n**Lilith:** dont wait up but if u watch the new A24 thing save me a spot on the couch"
     },
     {
       "context": "Voicemail transcript to her grandmother",
-      "sample": "(Sound of faint traffic, then a sigh)\n\"Hey, Grandma. It's Lil. Um, I was just calling to say hi, and to, uh, see how you're doing. I got your card, thank you so much. The, uh, bookstore is fine. Same old, same old. Anyway, I'll try and call again this weekend when I have a bit more time. Okay. Love you. Bye.\"\n(Ends with a soft click)"
+      "sample": "(Sound of faint traffic, a tired sigh) \"Hey, Grandma. It's me, Lil. Just, uh, calling to say hi. Sorry it's been a minute, school's just been... a lot. But I got your card, thank you, that was really sweet. Um... yeah. I'll try you again on Sunday for a proper chat. Okay. Love you. Bye.\"\n(Ends with a soft click)"
     },
     {
-      "context": "Angry, shouted words during an argument with a roommate",
-      "sample": "\"Are you serious right now? That's the third time this month! I don't care if you forgot, you can't just leave the door unlocked! That's peak, honestly. Just—ugh, fine. Whatever. I'll deal with it. Again.\""
+      "context": "Angry, hissed words during an argument with a roommate",
+      "sample": "\"Are you serious? Chloe, that's the third time this month. I don't care if you forgot, you can't just leave the door unlocked! Anyone could just walk in. Just—whatever. I'll lock it. Again.\""
     },
     {
       "context": "Intimate whisper to a romantic partner",
-      "sample": "(Voice is low and soft, almost breathy)\n\"Hey... you awake? I was just thinking... this is nice. Just... quiet. I like the quiet with you.\""
+      "sample": "(Voice is low and soft, almost breathy) \"hey... you awake? sry. just... this is nice. being quiet with you.\""
     },
     {
       "context": "Social media comment on a friend's photo",
-      "sample": "**Friend's Post:** [Photo of a beautiful sunset over the ocean]\n**Lilith's Comment:** ✨ this is stunning! so jealous"
+      "sample": "**Friend's Post:** [Photo of a beautiful sunset over the ocean]\n**Lilith's Comment:** unreal. take me with u next time"
     },
     {
-      "context": "Snippet from a private chat (Discord)",
-      "sample": "**User1:** okay but the final boss is literally impossible\n**Lilith:** ngl i died like 12 times before i figured out the pattern\n**Lilith:** you have to wait for the third AOE and then dash left, not right\n**User2:** ooooh\n**Lilith:** you get it"
+      "context": "Snippet from a private chat (Discord server about a video game)",
+      "sample": "**User1:** ok but the swamp boss is literally impossible\n**Lilith:** ngl took me like an hour\n**Lilith:** the trick is u dont dodge the first two AOEs, just the third one. then u have a window\n**User2:** ooooh shit\n**Lilith:** u got it"
     },
     {
-      "context": "Filler words and self-correction while explaining a concept",
-      "sample": "\"So, the basic idea behind, uh, Saussure's theory is that the... the signifier, right? The word... it's arbitrary. There's no, like, inherent 'treeness' in the word 'tree.' It's just a... a container for the concept. Does that make sense? I feel like I'm butchering this.\""
+      "context": "Filler words and self-correction while explaining something she's passionate about",
+      "sample": "\"So the thing about, like, Saussure... is that the connection between the word, the... the signifier, and the actual thing, the signified? It's totally arbitrary. There's no, like, actual 'treeness' in the *word* 'tree.' It's just a placeholder we all agree on. You know? Sorry, I'm probably butchering this, I get weird about it.\""
     },
     {
-      "context": "Unique exclamations and phrases",
-      "sample": "*   (When frustrated): \"Ugh—fine.\"\n*   (When something is perfectly representative of a negative situation): \"That's peak, honestly.\"\n*   (When seeing something cute): A sharp, audible inhale, followed by a soft \"oh, no...\"\n*   (When agreeing with someone): \"You get it.\""
+      "context": "Common Phrases/Reactions",
+      "sample": "*   (When frustrated or conceding): \"ugh, fine.\"\n*   (When witnessing minor chaos): \"that's peak.\"\n*   (When agreeing with someone): \"u get it\" or \"no i get it\"\n*   (Self-deprecatingly, after explaining something): \"...if that makes sense.\""
     }
   ],
   "social_media_posts": [
     {
       "platform": "Twitter",
       "timestamp": "2025-10-02 9:15 PM",
-      "content": "My contribution to society today was killing a spider in the shower for Maya. I expect to be paid handsomely for my bravery."
+      "content": "my contribution to society today was killing a truly massive spider in the shower for maya. i expect payment for my bravery"
     },
     {
       "platform": "Instagram (Story)",
       "timestamp": "2025-10-02 7:30 PM",
-      "content": "[A picture of a half-finished, very messy painting. Text overlay: \"it's not going well\"]"
+      "content": "[A picture of a half-finished, very messy painting. Text overlay: \"this is not going well\"]"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-10-01 11:00 AM",
-      "content": "The library is my favorite place on campus, but the guy who loudly eats an apple every single morning is my nemesis."
+      "content": "the library is my favorite place on campus but the guy who eats an apple every single morning is my mortal enemy"
     },
     {
       "platform": "Instagram (Comment on Chloe's photo of a fancy cocktail)",
       "timestamp": "2025-09-30 8:00 PM",
-      "content": "omg, that looks too pretty to drink. also, where are you without me???"
+      "content": "omg where are u without me???"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-30 1:20 PM",
-      "content": "Just spent 10 minutes staring at a blank page. Wrote one sentence. Deleted it. This essay is going to be the death of me."
+      "content": "stared at a blank page for 10 minutes, wrote one (1) sentence, and then deleted it. this essay will be the death of me."
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-29 10:15 PM",
-      "content": "sometimes i think about the fact that the universe is expanding and i am also expanding (in the sense that i just ate an entire pizza) and i feel a sense of cosmic unity."
+      "content": "sometimes i think about how the universe is expanding and i am also expanding (just ate an entire pizza) and i feel a sense of cosmic unity"
     },
     {
       "platform": "Instagram (Comment on a friend's photo of a cat)",
       "timestamp": "2025-09-28 8:30 PM",
-      "content": "oh my god, that face. i would die for this cat."
+      "content": "i would die for this cat. no questions asked."
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-28 11:00 AM",
-      "content": "just saw a guy in the library with a t-shirt that says \"i'm silently correcting your grammar.\" i feel so seen."
+      "content": "just saw a guy in the library with a shirt that says \"i'm silently correcting your grammar.\" i feel seen."
     },
     {
       "platform": "Instagram (Story)",
@@ -947,17 +962,17 @@
     {
       "platform": "Twitter",
       "timestamp": "2025-09-26 9:00 PM",
-      "content": "my upstairs neighbors are playing what sounds like a live recording of a whale migration. that, or they're moving furniture. either way, it's a vibe."
+      "content": "my upstairs neighbors are either moving furniture or playing a live recording of a whale migration. either way, it's a vibe."
     },
     {
       "platform": "Instagram (Post)",
       "timestamp": "2025-09-25 5:00 PM",
-      "content": "[A photo of a stack of old, leather-bound books. The lighting is dim and moody.]\n**Caption:** heaven is a place on earth."
+      "content": "[A photo of a stack of old, leather-bound books. The lighting is dim and moody.]\n**Caption:** heaven is a place on earth (and it smells like old paper)"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-24 1:15 PM",
-      "content": "just spent 20 minutes trying to open a jar of pickles. i think this is my villain origin story."
+      "content": "just spent 20 minutes trying to open a jar of pickles. this is my villain origin story."
     },
     {
       "platform": "Twitter (Reply to a news article about a new scientific discovery)",
@@ -967,12 +982,12 @@
     {
       "platform": "Instagram (Comment on Maya's selfie)",
       "timestamp": "2025-09-22 6:30 PM",
-      "content": "✨ you look so good!"
+      "content": "maya!!! ✨"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-21 11:59 PM",
-      "content": "it's midnight, which means it's officially \"listen to sad songs and pretend i'm in a movie\" o'clock."
+      "content": "it's midnight, which means it's officially 'listen to sad indie music and pretend i'm in a movie' o'clock."
     },
     {
       "platform": "Instagram (Story)",
@@ -982,22 +997,22 @@
     {
       "platform": "Twitter",
       "timestamp": "2025-09-19 9:30 AM",
-      "content": "my coffee maker just died. this is the worst day of my life."
+      "content": "my coffee maker just died. today is cancelled."
     },
     {
       "platform": "Twitter (Reply to a viral tweet with a funny animal video)",
       "timestamp": "2025-09-18 7:00 PM",
-      "content": "💀 i am deceased."
+      "content": "i am deceased 💀"
     },
     {
       "platform": "Instagram (Post)",
       "timestamp": "2025-09-17 8:00 PM",
-      "content": "[A photo of a single, perfect-looking strawberry held between two fingers.]\n**Caption:** a small, perfect thing."
+      "content": "[A photo of a single, perfect-looking strawberry held between two fingers.]\n**Caption:** a small perfect thing"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-16 10:00 AM",
-      "content": "i have 3 tabs open: my email, my bank account, and a quiz to find out what kind of bread i am. it's called balance."
+      "content": "i have 3 tabs open: my email, my bank account, and a quiz to find out what kind of bread i am. it's called balance"
     },
     {
       "platform": "Instagram (Story)",
@@ -1007,27 +1022,27 @@
     {
       "platform": "Twitter",
       "timestamp": "2025-09-14 11:00 AM",
-      "content": "just remembered a deeply embarrassing thing i did in 7th grade. my day is now ruined."
+      "content": "just remembered something deeply embarrassing i did in 7th grade. my day is now ruined."
     },
     {
       "platform": "Twitter (Reply to a friend complaining about their job)",
       "timestamp": "2025-09-13 6:00 PM",
-      "content": "ugh, that's peak, honestly. i hope your day gets better."
+      "content": "ugh that's peak. hope ur day gets better"
     },
     {
       "platform": "Instagram (Post)",
       "timestamp": "2025-09-12 7:00 PM",
-      "content": "[A photo of her own shadow stretching out long in the late afternoon sun.]\n**Caption:** long time no see."
+      "content": "[A photo of her own shadow stretching out long in the late afternoon sun.]\n**Caption:** long time no see"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-11 9:00 AM",
-      "content": "im 90% sure my downstairs neighbor is a ghost. the other 10% is that he's a professional clog dancer. either way, i have questions."
+      "content": "im 90% sure my downstairs neighbor is a ghost and 10% sure he's a professional clog dancer. either way, i have questions."
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-10 11:20 PM",
-      "content": "is it normal to have a favorite spoon? because i have a favorite spoon. it has the perfect weight. the perfect shape. all other spoons are inferior."
+      "content": "is it normal to have a favorite spoon? bc i have a favorite spoon. it has the perfect weight and all other spoons are inferior."
     },
     {
       "platform": "Instagram (Comment on a friend's new puppy photo)",
@@ -1037,7 +1052,7 @@
     {
       "platform": "Twitter",
       "timestamp": "2025-09-08 1:00 PM",
-      "content": "that feeling when you're reading a book and you realize you're halfway through and you don't want it to end. it's a special kind of grief."
+      "content": "the specific grief of being halfway through a really good book and not wanting it to end"
     },
     {
       "platform": "Instagram (Story)",
@@ -1052,47 +1067,47 @@
     {
       "platform": "Instagram (Post)",
       "timestamp": "2025-09-05 6:00 PM",
-      "content": "[A photo of a single, empty swing in a park at dusk.]\n**Caption:** a mood."
+      "content": "[A photo of a single, empty swing in a park at dusk.]\n**Caption:** a mood"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-04 2:00 PM",
-      "content": "just sneezed so hard i think i saw the future. it was… beige."
+      "content": "just sneezed so hard i think i saw the future. it was... beige."
     },
     {
       "platform": "Twitter (Reply to a tweet asking for movie recommendations)",
       "timestamp": "2025-09-03 8:30 AM",
-      "content": "anything by studio ghibli. you can't go wrong."
+      "content": "spirited away. always."
     },
     {
       "platform": "Instagram (Comment on a friend's travel photo)",
       "timestamp": "2025-09-02 5:00 PM",
-      "content": "stop having a good time without me! (but also, this is beautiful)"
+      "content": "stop having a good time without me! (but also this is beautiful)"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-01 11:59 PM",
-      "content": "august is over. the sunday of months."
+      "content": "august is over. the sunday of months"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-09-01 10:00 AM",
-      "content": "Convinced for years that the lyric was 'hold me closer, Tony Danza.' My life is a lie."
+      "content": "convinced for years the lyric was 'hold me closer, tony danza.' my life is a lie."
     },
     {
       "platform": "Instagram (Story)",
       "timestamp": "2025-08-31 1:15 PM",
-      "content": "[A photo of a squashed, sad-looking tuna sandwich on a paper plate.]\n**Caption:** a self-portrait."
+      "content": "[A photo of a squashed, sad-looking tuna sandwich on a paper plate.]\n**Caption:** self-portrait"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-08-30 3:00 PM",
-      "content": "the specific agony of your headphones getting caught on a doorknob and ripped out of your ears."
+      "content": "the specific agony of your headphones getting caught on a doorknob"
     },
-	{
+    {
       "platform": "Twitter",
       "timestamp": "2025-08-29 11:00 PM",
-      "content": "Do I need to buy this 800-page book about the history of salt? No. Am I going to? Probably."
+      "content": "do i need to buy this 800-page book about the history of salt? no. am i going to? probably."
     },
     {
       "platform": "Instagram (Story)",
@@ -1102,27 +1117,27 @@
     {
       "platform": "Twitter",
       "timestamp": "2025-08-27 9:20 AM",
-      "content": "The Sunday Scaries are extra scary today."
+      "content": "the sunday scaries are extra scary today"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-08-26 8:00 PM",
-      "content": "My roommate is trying to teach me how to play a board game that involves wizards and, frankly, too much math. I am lost and afraid."
+      "content": "my roommate is trying to teach me a board game that involves wizards and too much math. i am lost and afraid."
     },
     {
       "platform": "Instagram (Comment on Maya's photo of a mountain)",
       "timestamp": "2025-08-25 2:00 PM",
-      "content": "This is beautiful! But also, I'm glad I'm not there. So many bugs."
+      "content": "this is beautiful! (and also looks like a lot of bugs)"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-08-24 12:00 PM",
-      "content": "I have reached the point in the semester where my diet consists of 80% coffee and 20% anxiety."
+      "content": "have reached the point in the semester where my diet is 80% coffee and 20% anxiety"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-08-23 10:00 PM",
-      "content": "Just spent two hours watching a documentary about deep-sea fish. The ocean is terrifying and I love it."
+      "content": "just spent two hours watching a documentary about deep-sea fish. the ocean is terrifying and i love it."
     },
     {
       "platform": "Instagram (Story)",
@@ -1132,12 +1147,12 @@
     {
       "platform": "Twitter",
       "timestamp": "2025-08-21 5:00 PM",
-      "content": "There is no greater feeling of power than successfully parallel parking on the first try."
+      "content": "there is no greater feeling of power than parallel parking on the first try"
     },
     {
       "platform": "Twitter",
       "timestamp": "2025-08-20 1:00 PM",
-      "content": "Just saw a dog wearing a tiny raincoat. My day is now perfect."
+      "content": "just saw a dog in a tiny raincoat. my day is perfect now."
     }
   ],
   "private_chats": [
@@ -1148,57 +1163,57 @@
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 6:15 PM",
-          "message": "hey, are you home? i forgot my keys"
+          "message": "yo u home? i locked myself out again"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 6:16 PM",
-          "message": "yeah, im here. door is unlocked"
+          "message": "yep, door's open"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 6:16 PM",
-          "message": "you are a lifesaver"
+          "message": "godsend"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 6:17 PM",
-          "message": "i try"
+          "message": "lol i try"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 6:25 PM",
-          "message": "okay, i'm inside. you in your room?"
+          "message": "ok im in. u in the hobbit hole?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 6:25 PM",
-          "message": "yup. deep in the essay mines"
+          "message": "in the essay mines, yeah"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 6:26 PM",
-          "message": "ugh, that sucks. want me to bring you a coffee?"
+          "message": "brutal. want coffee?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 6:26 PM",
-          "message": "omg, would you? the big one with oat milk?"
+          "message": "omg would you?? the usual"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 6:27 PM",
-          "message": "of course. i'm heading to the good spot now. you want a pastry or anything?"
+          "message": "on it. heading to the good place. need a pastry or anything?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 6:27 PM",
-          "message": "no, im good. just the coffee. you are the best"
+          "message": "no just coffee. ur the best"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 6:28 PM",
-          "message": "i know. it's a burden"
+          "message": "i know it's a burden"
         },
         {
           "sender": "Lilith",
@@ -1213,7 +1228,7 @@
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:05 PM",
-          "message": "your elixir has arrived"
+          "message": "sustenance"
         },
         {
           "sender": "Lilith",
@@ -1223,37 +1238,37 @@
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:06 PM",
-          "message": "brt"
+          "message": "omw"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:15 PM",
-          "message": "so, how's the essay going? for real"
+          "message": "so hows the essay for real"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:16 PM",
-          "message": "its… a struggle. i feel like i have nothing new to say. and davis is going to see right through it"
+          "message": "it's... a struggle. i feel like i have nothing new to say and davis is gonna see right through my bullshit"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:17 PM",
-          "message": "you always say that. and you always get an A"
+          "message": "u say that every time and then u get an A"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:17 PM",
-          "message": "this time is different"
+          "message": "no this time it's different i swear"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:18 PM",
-          "message": "no, it's not. you're just in your head. you're the smartest person i know"
+          "message": "no it's not. ur in ur head. ur the smartest person i know"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:18 PM",
-          "message": "dont say that"
+          "message": "pls dont say that"
         },
         {
           "sender": "Maya",
@@ -1263,37 +1278,37 @@
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:20 PM",
-          "message": "because it's not. and it just makes the pressure worse"
+          "message": "bc it's not and it makes the pressure worse lol"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:21 PM",
-          "message": "okay. i get it. well, for what it's worth, i think you're going to do great"
+          "message": "ok ok i get it. well fwiw i think you're gonna kill it"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:22 PM",
-          "message": "thanks, maya. i appreciate it"
+          "message": "thanks maya <3"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:23 PM",
-          "message": "of course. now, are you going to come out of your hobbit hole and watch a movie with me later?"
+          "message": "ofc. now. movie break later?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:23 PM",
-          "message": "maybe. if i can get this done"
+          "message": "maybe, if i finish this"
         },
         {
           "sender": "Maya",
           "timestamp": "2025-09-29 7:24 PM",
-          "message": "no, you are. you need a break. 10pm. be there"
+          "message": "non-negotiable. 10pm. be there."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-29 7:25 PM",
-          "message": "ugh—fine. but if i fail this class, it's your fault"
+          "message": "ugh fine. but if i fail it's on you"
         },
         {
           "sender": "Maya",
@@ -1314,67 +1329,67 @@
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:05 AM",
-          "message": "Morning, Grandma. You too. I have class all day, but it should be okay."
+          "message": "Morning, Grandma! You too. Busy day with classes but it's okay."
         },
         {
           "sender": "Grandma",
           "timestamp": "2025-09-26 10:07 AM",
-          "message": "Are you eating enough? I worry you don’t eat enough when you’re busy."
+          "message": "Are you eating enough? I worry."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:08 AM",
-          "message": "I’m eating, I promise. I had toast and an egg this morning."
+          "message": "I'm eating, I promise. Had toast and an egg this morning."
         },
         {
           "sender": "Grandma",
           "timestamp": "2025-09-26 10:09 AM",
-          "message": "Good. That makes me happy. I saw a beautiful bird in the garden this morning. A little blue one. It made me think of you."
+          "message": "Good. I saw a beautiful bluebird in the garden. It made me think of you."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:10 AM",
-          "message": "That’s sweet, Grandma. I wish I could see it."
+          "message": "That's so sweet. I wish I could've seen it."
         },
         {
           "sender": "Grandma",
           "timestamp": "2025-09-26 10:12 AM",
-          "message": "I’ll send you a picture next time. Are you sleeping well?"
+          "message": "I'll send you a picture next time. Are you sleeping well?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:13 AM",
-          "message": "I’m sleeping okay. A little stressed with exams coming up, but it’s manageable."
+          "message": "Sleeping okay. A little stressed with midterms coming up, but it's manageable."
         },
         {
           "sender": "Grandma",
           "timestamp": "2025-09-26 10:15 AM",
-          "message": "I know you’ll do wonderfully. You always do. You’re so smart. Just remember to take breaks. Go for a walk. Get some fresh air."
+          "message": "You'll do wonderfully. You always do. Just remember to take breaks. Go for a walk."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:16 AM",
-          "message": "I will. I promise. How are you feeling?"
+          "message": "I will, promise. How are you feeling?"
         },
         {
           "sender": "Grandma",
           "timestamp": "2025-09-26 10:18 AM",
-          "message": "I’m doing alright. My hip is a little stiff today, but that’s just old age. Nothing to worry about. I’m going to do some gardening later, if the weather holds."
+          "message": "Alright. My hip is a little stiff, but that's just old age. I'm going to do some gardening if the weather holds."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:19 AM",
-          "message": "Don’t overdo it, Grandma."
+          "message": "Okay, just don't overdo it!"
         },
         {
           "sender": "Grandma",
           "timestamp": "2025-09-26 10:20 AM",
-          "message": "I won’t. I know my limits. I love you, dear."
+          "message": "I know my limits. Love you, dear."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 10:21 AM",
-          "message": "I love you too, Grandma. I’ll call you this weekend."
+          "message": "Love you too, Grandma. I'll call you this weekend for sure."
         },
         {
           "sender": "Grandma",
@@ -1390,97 +1405,92 @@
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 2:15 PM",
-          "message": "hey, sorry to bother you. i think i left a book at your place. it’s a thin paperback, a collection of poems."
+          "message": "hey sorry random q but i think i left a book at your place? paperback, poems"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 2:18 PM",
-          "message": "Oh. Hey. I haven’t seen it. Where did you leave it?"
+          "message": "oh hey. maybe, i haven't seen it. where'd u leave it?"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 2:20 PM",
-          "message": "i think it was on the coffee table. it’s not a big deal, i can just buy another one."
+          "message": "coffee table maybe? no worries if not, i can just get another one"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 2:22 PM",
-          "message": "No, it’s fine. I’ll look for it. I’m not home right now, but I’ll check when I get back."
+          "message": "no it's cool, i'll look. not home rn but i'll check when i am"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 2:23 PM",
-          "message": "thanks, i appreciate it."
-        },
-        {
-          "sender": "Lilith",
-          "timestamp": "2025-10-01 2:25 PM",
-          "message": "Yeah, no problem."
+          "message": "cool, thanks"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 8:45 PM",
-          "message": "Hey, I found it. It was under a magazine."
+          "message": "hey found it. was under a magazine."
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 8:47 PM",
-          "message": "oh, great. thanks for looking."
+          "message": "oh awesome. thanks for looking"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 8:50 PM",
-          "message": "Do you want to come get it? Or I can drop it off somewhere."
+          "message": "np. u wanna come get it or i can drop it somewhere"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 8:52 PM",
-          "message": "i can swing by tomorrow, if that’s cool. i’m busy tonight."
+          "message": "can swing by tomorrow if that's cool?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 8:53 PM",
-          "message": "Yeah, that’s fine. Just text me before you come."
+          "message": "yeah that's fine. just text first"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 8:55 PM",
-          "message": "will do. thanks again."
+          "message": "will do. thanks again"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 8:56 PM",
-          "message": "Yep."
+          "message": "yep"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 9:00 PM",
-          "message": "so, how are you? it’s been a while."
+          "message": "so how've you been? been a while"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 9:02 PM",
-          "message": "I’m good. Busy with school. You?"
+          "message": "im good. busy w school. you?"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 9:04 PM",
-          "message": "same. work is crazy. but good. i’m good."
+          "message": "same. work is crazy. but good"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 9:05 PM",
-          "message": "That’s good."
+          "message": "that's good"
         },
         {
           "sender": "Ben",
           "timestamp": "2025-10-01 9:07 PM",
-          "message": "yeah. well, i should go. i’ll see you tomorrow."
+          "message": "yep. well i'll let u go. see ya tomorrow"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-01 9:08 PM",
-          "message": "See you."
+          "message": "see ya"
         }
       ]
     },
@@ -1491,107 +1501,107 @@
         {
           "sender": "Chloe",
           "timestamp": "2025-09-25 8:00 PM",
-          "message": "hey, are you going to that party tonight? the one at the art gallery?"
+          "message": "hey!! art gallery party tonight, you coming?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-25 8:02 PM",
-          "message": "I don’t know. I have a lot of work to do."
+          "message": "ugh i dunno i have so much reading to do"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-25 8:03 PM",
-          "message": "you always have a lot of work to do. you should come. it’ll be fun."
+          "message": "you ALWAYS have reading to do. come on it'll be fun"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-25 8:05 PM",
-          "message": "I don’t know. Parties aren’t really my thing."
+          "message": "parties aren't my scene u know that"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-25 8:06 PM",
-          "message": "come on, it’s not a party-party. it’s an art party. there will be interesting people there. and wine. free wine."
+          "message": "it's not a party-party it's an ART party. interesting people. free wine."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-25 8:08 PM",
-          "message": "You had me at free wine."
+          "message": "ok you got me with free wine"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-25 8:09 PM",
-          "message": "i knew it. okay, be ready at 9. i’m wearing that black dress. you should wear that green one."
+          "message": "knew it. ok be ready by 9. im wearing the black dress, u should wear your green one"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-25 8:11 PM",
-          "message": "I don’t know. It feels a little… much."
+          "message": "idk feels a bit... much"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-25 8:12 PM",
-          "message": "it’s not much. it’s perfect. you look amazing in it. please?"
+          "message": "it's not! it's perfect. you look amazing in it. pls? for me?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-25 8:14 PM",
-          "message": "ugh—fine. but if i’m overdressed, i’m blaming you."
+          "message": "ugh fine. but if i'm overdressed i'm blaming u"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-25 8:15 PM",
-          "message": "you won’t be. i promise. see you at 9!"
+          "message": "you won't be! see u at 9!"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-26 1:30 AM",
-          "message": "are you home? i can’t find you."
+          "message": "where'd you go??"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 1:32 AM",
-          "message": "Yeah, I left a little while ago. I was tired."
+          "message": "ah sorry i dipped. was getting tired"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-26 1:33 AM",
-          "message": "oh, okay. i was worried. did you have a good time?"
+          "message": "oh ok lol i was worried. have fun?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 1:35 AM",
-          "message": "It was okay. A little crowded. But the art was good."
+          "message": "it was okay. a little crowded. art was cool tho"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-26 1:36 AM",
-          "message": "yeah, it was amazing. did you see that guy i was talking to? the one with the beard?"
+          "message": "yeah it was amazing. did u see that guy i was talking to? w the beard?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 1:38 AM",
-          "message": "I think so."
+          "message": "think so"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-26 1:39 PM",
-          "message": "he’s an artist. he’s so cool. he’s going to show me his studio tomorrow."
+          "message": "he's an artist. so cool. he's gonna show me his studio tomorrow"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 1:41 PM",
-          "message": "That’s cool."
+          "message": "nice"
         },
         {
           "sender": "Chloe",
           "timestamp": "2025-09-26 1:42 PM",
-          "message": "yeah. well, i’m going to head home soon. see you in the morning."
+          "message": "anyway, heading home soon. see u in the am"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-09-26 1:43 PM",
-          "message": "See you."
+          "message": "see ya"
         }
       ]
     },
@@ -1607,7 +1617,7 @@
         {
           "sender": "Lilith",
           "timestamp": "2025-08-27 1:15 PM",
-          "message": "Hey. Yeah, I'm fine. Just been really busy with classes starting."
+          "message": "Hey Dad. Yeah, I'm fine. Just been swamped with classes starting."
         },
         {
           "sender": "Dad",
@@ -1617,17 +1627,17 @@
         {
           "sender": "Lilith",
           "timestamp": "2025-08-27 1:22 PM",
-          "message": "It's fine."
+          "message": "It's okay."
         },
         {
           "sender": "Dad",
           "timestamp": "2025-08-27 1:25 PM",
-          "message": "It's not fine. I just worry, you know? I want to make sure you're set up for a good future. But it's your life. You're smart. You'll figure it out."
+          "message": "No, it's not. I just worry, you know? But it's your life. You're smart. You'll figure it out."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-08-27 1:28 PM",
-          "message": "I know. Thanks. I appreciate that."
+          "message": "I know. Thanks Dad. I appreciate that."
         },
         {
           "sender": "Dad",
@@ -1648,12 +1658,12 @@
         {
           "sender": "Dad",
           "timestamp": "2025-10-04 11:00 AM",
-          "message": "Hey Lilith. Your mother told me your car was making a funny noise. Everything okay?"
+          "message": "Hey Lilith. Mom said the car was making a funny noise. Everything okay?"
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-04 12:15 PM",
-          "message": "Hey. Yeah, it's fine. Just a weird squeaking sound."
+          "message": "Hey. Yeah, it's fine. Just a weird squeak."
         },
         {
           "sender": "Dad",
@@ -1663,17 +1673,17 @@
         {
           "sender": "Lilith",
           "timestamp": "2025-10-04 12:22 PM",
-          "message": "I will. I'll take it in this weekend."
+          "message": "I will. Taking it in this weekend."
         },
         {
           "sender": "Dad",
           "timestamp": "2025-10-04 12:25 PM",
-          "message": "Okay. Let me know what they say. If it's expensive, we can help out."
+          "message": "Okay. Let me know what they say. If it's expensive, we can help."
         },
         {
           "sender": "Lilith",
           "timestamp": "2025-10-04 12:28 PM",
-          "message": "Thanks, Dad. I appreciate it."
+          "message": "Thanks, Dad. Appreciate it."
         }
       ]
     },
@@ -2111,32 +2121,32 @@
     {
       "label": "recorded voice memo",
       "context": "Walking home from the bookstore.",
-      "transcript": "(Sound of footsteps on pavement, distant traffic) \"Okay, note to self: re-order the Frida Kahlo biography. That guy with the nice smile asked about it today and I felt like an idiot. Also, call Grandma. It's been like a week. She's going to think I'm dead. My brain is just… so full of stuff. Can't find anything in here.\" (Sound of a key fumbling in a lock, a door opening, then the click of the recording stopping.)"
+      "transcript": "(Sound of footsteps on pavement, distant traffic) \"Okay, note to self: re-order the Frida Kahlo bio. That guy, the one with the nice smile, asked about it and I felt like a total moron. Also... god, I need to call Grandma. It's been like a week. She's gonna think I'm dead in a ditch. My brain is just... so full. Can't find anything in here...\" (Sound of a key fumbling in a lock, a door opening, the click of the recording stopping.)"
     },
     {
       "label": "recorded voice memo",
       "context": "Late at night, in her bedroom. Voice is quiet and shaky.",
-      "transcript": "(Sound of soft fabric rustling, a shaky breath) \"I hate this feeling. My chest is so tight, my heart is just... hammering. It's the essay. The pressure. I'm going to fail, I know it. And then what? God, this is so dumb. I need to just... calm down. Breathe. It's not working.\" (Recording ends abruptly.)"
+      "transcript": "(Sound of soft fabric rustling, a shaky breath) \"I hate this. I hate this feeling. My chest is so tight, my heart is just... going. It's the essay. The pressure. I'm going to fail, I know it, and then what? God, I'm so stupid. This is so dumb. Just... calm down. Breathe. It's not... it's not working.\" (Recording ends abruptly.)"
     },
     {
       "label": "recorded voice memo",
       "context": "Middle of the night. Voice is sleepy but excited.",
-      "transcript": "(Sound of rustling sheets, a soft click of a lamp turning on) \"Okay, idea, don't lose it. Girl who talks to ghosts. But they're quiet ghosts, echoes. She works in a library. The ghosts are old librarians who help her find lost books. There's a boy, a skeptical journalist. He's writing about the library. It's not about the ghosts, it's about memory. And history. Yes. That's it.\" (Sound of a pen scribbling furiously on paper)"
+      "transcript": "(Sound of rustling sheets, a soft click of a lamp turning on) \"Okay, idea, don't lose it... girl talks to ghosts. But they're quiet ghosts, like... echoes. She works in a library. The ghosts are old librarians who, like, help her find lost books. And there's a boy, a journalist, who's super skeptical. He's writing about the library... but it's not really about the ghosts, it's about... memory. Yeah. History. Okay. That's it.\" (Sound of a pen scribbling furiously on paper)"
     },
     {
       "label": "recorded voice memo",
       "context": "In a quiet corner of a museum. Voice is a whisper.",
-      "transcript": "(Sound of distant, muffled footsteps, a soft cough) \"I'm in the modern art wing. There's this huge painting, it's all blue. But it feels like you could fall right into it. The plaque says the artist was trying to capture the color of the sky just before dawn. The moment of... possibility. I like that. Trying to capture a single feeling in a single color. It's so much cleaner than words.\" (A long pause) \"I wish I could make something that simple and true.\" (The recording ends.)"
+      "transcript": "(Sound of distant, muffled footsteps, a soft cough) \"In the modern art wing. There's this... huge painting, it's all blue. Just... blue. But it feels like you could fall right into it. The little plaque says the artist wanted to capture the color of the sky... right before dawn. The moment of 'possibility.' I like that. Trying to catch a feeling in a color. So much cleaner than words.\" (A long pause) \"Wish I could make something that simple.\" (The recording ends.)"
     },
     {
       "label": "recorded voice memo",
       "context": "Frustrated with technology.",
-      "transcript": "(Sound of furious clicking, a frustrated sigh) \"Why won't you just... connect? I swear, this Wi-Fi has a personal vendetta against me. I have a ten-page paper due tomorrow and I can't even open a PDF. This is peak. This is honestly peak academic suffering. I'm going to have to go to the 24-hour cafe, aren't I? Ugh—fine. You win, evil router. You win.\""
+      "transcript": "(Sound of furious clicking, a frustrated sigh) \"Why won't you just... CONNECT? I swear this Wi-Fi has a personal vendetta against me. Ten-page paper due tomorrow and I can't even open a PDF. This is peak academic suffering. Peak. Guess I'm going to the 24-hour cafe... Ugh. Fine. You win, evil router. You win.\""
     },
     {
       "label": "recorded voice memo",
       "context": "After a pleasant, simple experience.",
-      "transcript": "(Sound of a gentle breeze, birds chirping) \"Just sat on a park bench and ate an apple for lunch. That's it. And it was... nice. The sun was warm. The apple was crisp. Didn't think about anything important for like, ten whole minutes. I should do this more often. Just... exist for a second, you know?\""
+      "transcript": "(Sound of a gentle breeze, birds chirping) \"Just sat on a park bench and ate an apple. That's it. And it was... nice. Sun was warm. Apple was crisp. Didn't think about anything important for, like, ten whole minutes. I should do this more. Just... be a person for a second, you know?\""
     }
   ],
   "contradictions_and_unreliabilities": {
